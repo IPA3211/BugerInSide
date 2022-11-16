@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5904334988764920724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5904334988764920725}
+  - component: {fileID: 5904334988764920727}
+  - component: {fileID: 5904334988764920726}
+  - component: {fileID: 5904334988764920808}
+  - component: {fileID: 5904334988764920809}
+  - component: {fileID: 1881611182}
+  - component: {fileID: 634937306}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5904334988764920725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5904334988764920727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01461a61a3c02ef4ba38b4048d397842, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5904334988764920726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c39e1cda27e3294fbb6fb9a52697d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5904334988764920808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fddcf96bef6b16e49983b254e9f7cbda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: 78e4b7cbb13f593429a0a439d3a8f9c1, type: 2}
+  - {fileID: 11400000, guid: 1a540c2dc7d5eae4c816b57413bb588b, type: 2}
+  - {fileID: 11400000, guid: 2f0b9a821ff36794eae8f7676895a0b4, type: 2}
+  supporters:
+  - {fileID: 11400000, guid: 8d7305069f2332d408d10ab56bf7cc8a, type: 2}
+  - {fileID: 0}
+  enemies:
+  - {fileID: 11400000, guid: 55b5611069af571438c031b2aa3f46f1, type: 2}
+  - {fileID: 11400000, guid: d71dd65ac24630b4fb6e2a83d9738c4c, type: 2}
+  - {fileID: 11400000, guid: 10b319c0bf798c145a0f024059fe2274, type: 2}
+  items:
+  - {fileID: 11400000, guid: 049b7b516198fb146a7e83297c23186c, type: 2}
+  equips: []
+  skills: []
+  passives: []
+--- !u!114 &5904334988764920809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 360ea9a173ec9e34b9f7194d7c7d5716, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gold: 0
+  _Characters: []
+  _Supporters: []
+  _Enemies: []
+  _giveItemOnBattleEnd: []
+--- !u!114 &1881611182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1486723f0754b93459ef8934ee05a1fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &634937306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5904334988764920724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd5bd184ff091e749918a5ddf979a223, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  induceObj: {fileID: 3271708162386260462, guid: 4a33cbc5b23ebf547b07b67cbb39f6f2,
+    type: 3}
+  focusedObj: {fileID: 0}
+  focusColor: {r: 1, g: 1, b: 0, a: 1}

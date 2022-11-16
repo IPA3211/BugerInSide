@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: ef826f089cd6215498043b69c9a7d4a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4526236694561024456
+    second: segu help!-Sheet_0
+  - first:
+      213: 5650232466926208753
+    second: segu help!-Sheet_1
+  - first:
+      213: -2537168540020660811
+    second: segu help!-Sheet_2
+  - first:
+      213: -1564577868387840291
+    second: segu help!-Sheet_3
+  - first:
+      213: -3949484178966184490
+    second: segu help!-Sheet_4
+  - first:
+      213: 8233750052493425293
+    second: segu help!-Sheet_5
+  - first:
+      213: 6169957805554178096
+    second: segu help!-Sheet_6
+  - first:
+      213: -2841073095083066804
+    second: segu help!-Sheet_7
+  - first:
+      213: -6777095077072955457
+    second: segu help!-Sheet_8
+  - first:
+      213: -8443932377714562900
+    second: segu help!-Sheet_9
+  - first:
+      213: -6895545281022999837
+    second: segu help!-Sheet_10
+  - first:
+      213: 7216528293108185368
+    second: segu help!-Sheet_11
+  - first:
+      213: -702844056753033035
+    second: segu help!-Sheet_12
+  - first:
+      213: -4098226708664485450
+    second: segu help!-Sheet_13
+  - first:
+      213: -2282409430875810235
+    second: segu help!-Sheet_14
+  - first:
+      213: -3317637335748236875
+    second: segu help!-Sheet_15
+  - first:
+      213: 4593273651119970326
+    second: segu help!-Sheet_16
+  - first:
+      213: -4070246400979652817
+    second: segu help!-Sheet_17
+  - first:
+      213: 1812163457640106143
+    second: segu help!-Sheet_18
+  - first:
+      213: 787766960892639067
+    second: segu help!-Sheet_19
+  - first:
+      213: -2385354649726144991
+    second: segu help!-Sheet_20
+  - first:
+      213: 8435887805947002322
+    second: segu help!-Sheet_21
+  - first:
+      213: -7297784374859919089
+    second: segu help!-Sheet_22
+  - first:
+      213: -6173904497947797218
+    second: segu help!-Sheet_23
+  - first:
+      213: 832127764035925582
+    second: segu help!-Sheet_24
+  - first:
+      213: 3557264379569058503
+    second: segu help!-Sheet_25
+  - first:
+      213: 4266605938921849190
+    second: segu help!-Sheet_26
+  - first:
+      213: 3401953404755780446
+    second: segu help!-Sheet_27
+  - first:
+      213: -527412332621163451
+    second: segu help!-Sheet_28
+  - first:
+      213: -1105680557650092664
+    second: segu help!-Sheet_29
+  - first:
+      213: 7976897575733982869
+    second: segu help!-Sheet_30
+  - first:
+      213: 4816976676738334167
+    second: segu help!-Sheet_31
+  - first:
+      213: 5039570429370183459
+    second: segu help!-Sheet_32
+  - first:
+      213: -3934869839443396591
+    second: segu help!-Sheet_33
+  - first:
+      213: 4001859924032535217
+    second: segu help!-Sheet_34
+  - first:
+      213: -3477457573382195573
+    second: segu help!-Sheet_35
+  - first:
+      213: 2935480957848085132
+    second: segu help!-Sheet_36
+  - first:
+      213: 6321834774375106537
+    second: segu help!-Sheet_37
+  - first:
+      213: 170410067263809097
+    second: segu help!-Sheet_38
+  - first:
+      213: -7217940929424059571
+    second: segu help!-Sheet_39
+  - first:
+      213: 6512050041854978332
+    second: segu help!-Sheet_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: segu help!-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361a5315b39f21c0800000000000000
+      internalID: -4526236694561024456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f604811e78a96e40800000000000000
+      internalID: 5650232466926208753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a5c4c7aa2accd0800000000000000
+      internalID: -2537168540020660811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0e4bd7b0894ae0800000000000000
+      internalID: -1564577868387840291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf1b2801d9039c0800000000000000
+      internalID: -3949484178966184490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a79386c08244270800000000000000
+      internalID: 8233750052493425293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038943f2fe710a550800000000000000
+      internalID: 6169957805554178096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a77aa921b7298d0800000000000000
+      internalID: -2841073095083066804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7940a1febe2f1a0800000000000000
+      internalID: -6777095077072955457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca867e68d3021da80800000000000000
+      internalID: -8443932377714562900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c000e91a1e40a0800000000000000
+      internalID: -6895545281022999837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f44e6f32462460800000000000000
+      internalID: 7216528293108185368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0bdb0ed0ffe36f0800000000000000
+      internalID: -702844056753033035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f805958c2027c0800000000000000
+      internalID: -4098226708664485450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54655a027b04350e0800000000000000
+      internalID: -2282409430875810235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92725bb6265f1d0800000000000000
+      internalID: -3317637335748236875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618da2bac069ebf30800000000000000
+      internalID: 4593273651119970326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fab41a6749387c0800000000000000
+      internalID: -4070246400979652817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98059f3019162910800000000000000
+      internalID: 1812163457640106143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b577bcd80e5beea00800000000000000
+      internalID: 787766960892639067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e2fbf859485eed0800000000000000
+      internalID: -2385354649726144991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3586a34b421570800000000000000
+      internalID: 8435887805947002322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011411c6cf09ba90800000000000000
+      internalID: -7297784374859919089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1992a2e192e15aa0800000000000000
+      internalID: -6173904497947797218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f917eacf4c8b00800000000000000
+      internalID: 832127764035925582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23d542b11fd5130800000000000000
+      internalID: 3557264379569058503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661420afe77063b30800000000000000
+      internalID: 4266605938921849190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5326e8e89a263f20800000000000000
+      internalID: 3401953404755780446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54494ff17414ea8f0800000000000000
+      internalID: -527412332621163451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd5361465d7a0f0800000000000000
+      internalID: -1105680557650092664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967c4be412a3be60800000000000000
+      internalID: 7976897575733982869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd745c14c659d240800000000000000
+      internalID: 4816976676738334167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f2c2fca9620f540800000000000000
+      internalID: 5039570429370183459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118f3969ab88469c0800000000000000
+      internalID: -3934869839443396591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab4dce566798730800000000000000
+      internalID: 4001859924032535217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ff09e2c69dbfc0800000000000000
+      internalID: -3477457573382195573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 7344
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c826579d06cecb820800000000000000
+      internalID: 2935480957848085132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 7548
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e707579b3babb750800000000000000
+      internalID: 6321834774375106537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 7752
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e865ad0b6d5200800000000000000
+      internalID: 170410067263809097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 7956
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d431deb87f8b4db90800000000000000
+      internalID: -7217940929424059571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu help!-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 0
+        width: 204
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c196550c2037f5a50800000000000000
+      internalID: 6512050041854978332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

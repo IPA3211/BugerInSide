@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 0310a3b456c43d541b9dcc0f6cc008ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7763016082736957905
+    second: pirate_skill3_0
+  - first:
+      213: -702410972183433867
+    second: pirate_skill3_1
+  - first:
+      213: 5023047315729589588
+    second: pirate_skill3_2
+  - first:
+      213: 7259236608339455690
+    second: pirate_skill3_3
+  - first:
+      213: 2924369714128970473
+    second: pirate_skill3_4
+  - first:
+      213: 4840855056028157138
+    second: pirate_skill3_5
+  - first:
+      213: -4513172267293612548
+    second: pirate_skill3_6
+  - first:
+      213: 7523183998818766193
+    second: pirate_skill3_7
+  - first:
+      213: -4123644972169940712
+    second: pirate_skill3_8
+  - first:
+      213: -1170404229698385955
+    second: pirate_skill3_9
+  - first:
+      213: 2748006851597714393
+    second: pirate_skill3_10
+  - first:
+      213: 7771824638319116246
+    second: pirate_skill3_11
+  - first:
+      213: -3025930003480768738
+    second: pirate_skill3_12
+  - first:
+      213: -3451892136334094351
+    second: pirate_skill3_13
+  - first:
+      213: 4423585998436259925
+    second: pirate_skill3_14
+  - first:
+      213: -5197890667767970270
+    second: pirate_skill3_15
+  - first:
+      213: 2272016913651014555
+    second: pirate_skill3_16
+  - first:
+      213: -7695598853814934240
+    second: pirate_skill3_17
+  - first:
+      213: 981771557435221683
+    second: pirate_skill3_18
+  - first:
+      213: -6098159335285308944
+    second: pirate_skill3_19
+  - first:
+      213: 3032523102906174374
+    second: pirate_skill3_20
+  - first:
+      213: 5299507227580762150
+    second: pirate_skill3_21
+  - first:
+      213: -3836626115704614201
+    second: pirate_skill3_22
+  - first:
+      213: -2244330235391220294
+    second: pirate_skill3_23
+  - first:
+      213: 3278961653192928693
+    second: pirate_skill3_24
+  - first:
+      213: 8189831576117400861
+    second: pirate_skill3_25
+  - first:
+      213: -7667490565157083308
+    second: pirate_skill3_26
+  - first:
+      213: 7940956096975867912
+    second: pirate_skill3_27
+  - first:
+      213: -8253319574398958165
+    second: pirate_skill3_28
+  - first:
+      213: 6791838756092081014
+    second: pirate_skill3_29
+  - first:
+      213: 2873908693069237237
+    second: pirate_skill3_30
+  - first:
+      213: 4563629485824374624
+    second: pirate_skill3_31
+  - first:
+      213: 9186443103521828456
+    second: pirate_skill3_32
+  - first:
+      213: 8550789599752306511
+    second: pirate_skill3_33
+  - first:
+      213: 2297950182487525613
+    second: pirate_skill3_34
+  - first:
+      213: 4709426177285424593
+    second: pirate_skill3_35
+  - first:
+      213: 8890751510717577655
+    second: pirate_skill3_36
+  - first:
+      213: -4779965499621249523
+    second: pirate_skill3_37
+  - first:
+      213: 1516982100798585935
+    second: pirate_skill3_38
+  - first:
+      213: 773316525004212148
+    second: pirate_skill3_39
+  - first:
+      213: -1248977358350035802
+    second: pirate_skill3_40
+  - first:
+      213: 483129125683481999
+    second: pirate_skill3_41
+  - first:
+      213: -4579976989165625431
+    second: pirate_skill3_42
+  - first:
+      213: -6102513485763235521
+    second: pirate_skill3_43
+  - first:
+      213: 6217625681499354828
+    second: pirate_skill3_44
+  - first:
+      213: -8121985429655302101
+    second: pirate_skill3_45
+  - first:
+      213: -3107492884602579136
+    second: pirate_skill3_46
+  - first:
+      213: -7056805185573450238
+    second: pirate_skill3_47
+  - first:
+      213: 6929636404855296962
+    second: pirate_skill3_48
+  - first:
+      213: -8493478757440877828
+    second: pirate_skill3_49
+  - first:
+      213: 5098237770184237433
+    second: pirate_skill3_50
+  - first:
+      213: 4820771868608141009
+    second: pirate_skill3_51
+  - first:
+      213: -732965005834719240
+    second: pirate_skill3_52
+  - first:
+      213: -7770299870633987467
+    second: pirate_skill3_53
+  - first:
+      213: 6597001443517280746
+    second: pirate_skill3_54
+  - first:
+      213: 2853793755786483905
+    second: pirate_skill3_55
+  - first:
+      213: 4837058677766039634
+    second: pirate_skill3_56
+  - first:
+      213: 4825380485636809233
+    second: pirate_skill3_57
+  - first:
+      213: -4602821325854865298
+    second: pirate_skill3_58
+  - first:
+      213: 3544280684643865165
+    second: pirate_skill3_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_skill3_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94e2d3ff5cbbb60800000000000000
+      internalID: 7763016082736957905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6bac31f88046f0800000000000000
+      internalID: -702410972183433867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_2
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455aa00abe275b540800000000000000
+      internalID: 5023047315729589588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_3
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea594fb3dfdb460800000000000000
+      internalID: 7259236608339455690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_4
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26192d2c2759820800000000000000
+      internalID: 2924369714128970473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_5
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d446b7860c2e2340800000000000000
+      internalID: 4840855056028157138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_6
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e1d51cbdfd51c0800000000000000
+      internalID: -4513172267293612548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_7
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dce75ccf7b76860800000000000000
+      internalID: 7523183998818766193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_8
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113cfdeebed5c6c0800000000000000
+      internalID: -4123644972169940712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_9
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 960
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7863ddd83e1cfe0800000000000000
+      internalID: -1170404229698385955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d342d50ca1e22620800000000000000
+      internalID: 2748006851597714393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb3a7e4511bdb60800000000000000
+      internalID: 7771824638319116246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_12
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f0553a1bcb106d0800000000000000
+      internalID: -3025930003480768738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff87d2146a6810d0800000000000000
+      internalID: -3451892136334094351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_14
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5585f26470cb36d30800000000000000
+      internalID: 4423585998436259925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_15
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2264f5e2af16dd7b0800000000000000
+      internalID: -5197890667767970270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_16
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b19d56853d78f10800000000000000
+      internalID: 2272016913651014555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_17
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02525709d9db33590800000000000000
+      internalID: -7695598853814934240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_18
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62283a704ff9d00800000000000000
+      internalID: 981771557435221683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_19
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 768
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1469cd46cfe5ba0800000000000000
+      internalID: -6098159335285308944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab43e1f1bfa51a20800000000000000
+      internalID: 3032523102906174374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6280198deb1ab8940800000000000000
+      internalID: 5299507227580762150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_22
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2907500e091cac0800000000000000
+      internalID: -3836626115704614201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_23
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab566d8ba898ad0e0800000000000000
+      internalID: -2244330235391220294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_24
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd21ba3046318d20800000000000000
+      internalID: 3278961653192928693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_25
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1551c84d6028a170800000000000000
+      internalID: 8189831576117400861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_26
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457272184f9979590800000000000000
+      internalID: -7667490565157083308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_27
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80018394f71f33e60800000000000000
+      internalID: 7940956096975867912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_28
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50c263391567d80800000000000000
+      internalID: -8253319574398958165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_29
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 576
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673799c2d55714e50800000000000000
+      internalID: 6791838756092081014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb8c4fcabc22e720800000000000000
+      internalID: 2873908693069237237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_31
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677f0596d4455f30800000000000000
+      internalID: 4563629485824374624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_32
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e61cea45dcc7f70800000000000000
+      internalID: 9186443103521828456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_33
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f375246d18aa670800000000000000
+      internalID: 8550789599752306511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_34
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de886b21485f3ef10800000000000000
+      internalID: 2297950182487525613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_35
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50609182e3b5140800000000000000
+      internalID: 4709426177285424593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_36
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b69ec46b426b70800000000000000
+      internalID: 8890751510717577655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_37
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee37414b62aadb0800000000000000
+      internalID: -4779965499621249523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_38
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb9b0fe276d0510800000000000000
+      internalID: 1516982100798585935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_39
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 384
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c0d3484f5bba00800000000000000
+      internalID: 773316525004212148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a45a0fb5bdbaaee0800000000000000
+      internalID: -1248977358350035802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_41
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d420d416b64b600800000000000000
+      internalID: 483129125683481999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_42
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd151b137a070c0800000000000000
+      internalID: -4579976989165625431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_43
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313d0431548f4ba0800000000000000
+      internalID: -6102513485763235521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_44
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67d1c6d91794650800000000000000
+      internalID: 6217625681499354828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_45
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205f7aa849e84f80800000000000000
+      internalID: -8121985429655302101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_46
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04795378fa7ffd4d0800000000000000
+      internalID: -3107492884602579136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_47
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e82c08211311e90800000000000000
+      internalID: -7056805185573450238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_48
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d30e68930b2060800000000000000
+      internalID: 6929636404855296962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_49
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 192
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa096b021a112a80800000000000000
+      internalID: -8493478757440877828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971af488d3490c640800000000000000
+      internalID: 5098237770184237433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_51
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d695931972d6e240800000000000000
+      internalID: 4820771868608141009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_52
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffed6ae53cf3d5f0800000000000000
+      internalID: -732965005834719240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_53
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f89cbf695a2490800000000000000
+      internalID: -7770299870633987467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_54
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae136974cd14d8b50800000000000000
+      internalID: 6597001443517280746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_55
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c891e30d46ba9720800000000000000
+      internalID: 2853793755786483905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_56
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25827f55d3fa02340800000000000000
+      internalID: 4837058677766039634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_57
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112eb785cf137f240800000000000000
+      internalID: 4825380485636809233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_58
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6804d3146e7f10c0800000000000000
+      internalID: -4602821325854865298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_59
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 0
+        width: 76
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42d9781180df2130800000000000000
+      internalID: 3544280684643865165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

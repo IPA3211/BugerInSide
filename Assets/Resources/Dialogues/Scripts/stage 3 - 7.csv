@@ -1,0 +1,6 @@
+title,describe,Limg,Cimg,Rimg,Lexpression,Cexpression,Rexpression
+해루석,준비는 되셨습니까? <?btn=네&4> <?btn=아니요&2>,,,,,,
+해루석,준비가 되면 다시 말씀해주세요.,,,,,,
+, <?end=0>,,,,,,
+해루석,그럼 무운을 빌겠습니다..,기사버거,,해루석,,,
+, <?end=1>,,,,,,

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: chimera
+  m_EditorClassIdentifier: 
+  sortingNum: 0
+  hash: 975576965
+  titleEng: chimera
+  title: "\uD0A4\uBA54\uB77C"
+  describeImage: {fileID: 8884850626477812036, guid: ba113f1ef12d5e340aa1a7c35af897cf,
+    type: 3}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 15000
+  Hp: 15000
+  maxMp: 100
+  Mp: 0
+  Speed: 250
+  ATK: 700
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: 21300000, guid: c1753bccf9f820648bdc8b1409faff1e, type: 3}
+  flip: 1
+  AnimatorController: {fileID: 9100000, guid: 566e4fd3b7bd95e4ba97a6e2b57af0ce, type: 2}
+  mpName: "\uB9C8\uB098"
+  mpBarImage: {fileID: -8619046075498376970, guid: c7869c0bf9426bc4ab4f040bab688c85,
+    type: 3}
+  isSupporter: 0
+  useSkillNum: 0
+  charType: 0
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: 78e95c25671b11e43816f157ba5c3642, type: 2}
+  skills: []
+  passives: []
+  linkedChar: {fileID: 0}
+  skillAI: 
+  usePer: 0
+  usePerSkill: {fileID: 0}
+  skillNum: 0

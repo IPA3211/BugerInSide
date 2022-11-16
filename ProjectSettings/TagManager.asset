@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Manager
+  - Minimap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Collision
+    uniqueID: 3966033661
+    locked: 0
+  - name: Bg
+    uniqueID: 1463052973
+    locked: 0
+  - name: Bg Design
+    uniqueID: 1258763613
+    locked: 0
+  - name: Bg Design2
+    uniqueID: 1460933789
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2354595883
+    locked: 0
+  - name: Fg
+    uniqueID: 346350721
+    locked: 0
+  - name: Fg Design
+    uniqueID: 1023448733
+    locked: 0

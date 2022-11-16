@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 6c3dec550987e0749990ce3e59896580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6726413918565807518
+    second: rewind_ready-Sheet_0
+  - first:
+      213: -7660807222532763667
+    second: rewind_ready-Sheet_1
+  - first:
+      213: 7573833826795695038
+    second: rewind_ready-Sheet_2
+  - first:
+      213: 903387719061057800
+    second: rewind_ready-Sheet_3
+  - first:
+      213: 3207642639121975013
+    second: rewind_ready-Sheet_4
+  - first:
+      213: -487759243460079636
+    second: rewind_ready-Sheet_5
+  - first:
+      213: -8308793316640636082
+    second: rewind_ready-Sheet_6
+  - first:
+      213: 8992597621591966445
+    second: rewind_ready-Sheet_7
+  - first:
+      213: -6994737822191210573
+    second: rewind_ready-Sheet_8
+  - first:
+      213: -1225581151069789197
+    second: rewind_ready-Sheet_9
+  - first:
+      213: 9122157889301441928
+    second: rewind_ready-Sheet_10
+  - first:
+      213: 4214931356225003259
+    second: rewind_ready-Sheet_11
+  - first:
+      213: 4043602338332043803
+    second: rewind_ready-Sheet_12
+  - first:
+      213: 3697702459878019104
+    second: rewind_ready-Sheet_13
+  - first:
+      213: -7429936389589139971
+    second: rewind_ready-Sheet_14
+  - first:
+      213: 2002993605374230905
+    second: rewind_ready-Sheet_15
+  - first:
+      213: 7582003645528238148
+    second: rewind_ready-Sheet_16
+  - first:
+      213: -7832402056789014940
+    second: rewind_ready-Sheet_17
+  - first:
+      213: 2166078574883314093
+    second: rewind_ready-Sheet_18
+  - first:
+      213: 6883846542925747141
+    second: rewind_ready-Sheet_19
+  - first:
+      213: -4814544439917609134
+    second: rewind_ready-Sheet_20
+  - first:
+      213: -3219810288699569858
+    second: rewind_ready-Sheet_21
+  - first:
+      213: 6624845144966484818
+    second: rewind_ready-Sheet_22
+  - first:
+      213: -5760617797692523828
+    second: rewind_ready-Sheet_23
+  - first:
+      213: 8285550833034502363
+    second: rewind_ready-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a44abdd2af6a2a0800000000000000
+      internalID: -6726413918565807518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def00387b685fa590800000000000000
+      internalID: -7660807222532763667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbaef1dcb9ab1960800000000000000
+      internalID: 7573833826795695038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b519185a798c00800000000000000
+      internalID: 903387719061057800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e603474cf5d38c20800000000000000
+      internalID: 3207642639121975013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef06a56d812b39f0800000000000000
+      internalID: -487759243460079636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ce79108c31bc80800000000000000
+      internalID: -8308793316640636082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2030b54ef1ccc70800000000000000
+      internalID: 8992597621591966445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfad4ba203bdee90800000000000000
+      internalID: -6994737822191210573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3221fbf6cddfee0800000000000000
+      internalID: -1225581151069789197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de6d0e44a689e70800000000000000
+      internalID: 9122157889301441928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5270acb17e7a30800000000000000
+      internalID: 4214931356225003259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a683d17e2cd1830800000000000000
+      internalID: 4043602338332043803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201e16cbc0e05330800000000000000
+      internalID: 3697702459878019104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd7aca183093e890800000000000000
+      internalID: -7429936389589139971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c5bf52101ccb10800000000000000
+      internalID: 2002993605374230905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486d69f420b83960800000000000000
+      internalID: 7582003645528238148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664d03c3d7bd4390800000000000000
+      internalID: -7832402056789014940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9118bccf47f0e10800000000000000
+      internalID: 2166078574883314093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d36765f5588f50800000000000000
+      internalID: 6883846542925747141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff067275d4f2db0800000000000000
+      internalID: -4814544439917609134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390ae90a9fe053d0800000000000000
+      internalID: -3219810288699569858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d2b53f8d20fb50800000000000000
+      internalID: 6624845144966484818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7eb152ac2e00b0800000000000000
+      internalID: -5760617797692523828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewind_ready-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 96
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0a67b75903cf270800000000000000
+      internalID: 8285550833034502363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

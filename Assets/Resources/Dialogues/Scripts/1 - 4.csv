@@ -1,0 +1,5 @@
+title,describe,Limg,Cimg,Rimg,Lexpression,Cexpression,Rexpression
+징맘,준비는 되셨나요? <?btn=네&2> <?btn=아니요&3>,,,똥강아지,,,
+, <?end=1>,,,똥강아지,,,
+징맘,준비가 되면 말씀해주세요.,,,똥강아지,,,
+, <?end=0>,,,똥강아지,,,

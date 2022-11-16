@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 5f046838bc118314cacd6a5882602922
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6334800384146366207
+    second: mebuger-skill1-Sheet_0
+  - first:
+      213: -1660961608384884218
+    second: mebuger-skill1-Sheet_1
+  - first:
+      213: -62641957607880888
+    second: mebuger-skill1-Sheet_2
+  - first:
+      213: -4838141780670917639
+    second: mebuger-skill1-Sheet_3
+  - first:
+      213: 3456855609618234993
+    second: mebuger-skill1-Sheet_4
+  - first:
+      213: -8910436521170406588
+    second: mebuger-skill1-Sheet_5
+  - first:
+      213: -37903448500342067
+    second: mebuger-skill1-Sheet_6
+  - first:
+      213: -6768109167007605741
+    second: mebuger-skill1-Sheet_7
+  - first:
+      213: -7643023833630548981
+    second: mebuger-skill1-Sheet_8
+  - first:
+      213: -5258591740374307933
+    second: mebuger-skill1-Sheet_9
+  - first:
+      213: 6534666782747167562
+    second: mebuger-skill1-Sheet_10
+  - first:
+      213: 2121304381718639762
+    second: mebuger-skill1-Sheet_11
+  - first:
+      213: 8285778576007834591
+    second: mebuger-skill1-Sheet_12
+  - first:
+      213: -8194794268999598560
+    second: mebuger-skill1-Sheet_13
+  - first:
+      213: 2796538195097850754
+    second: mebuger-skill1-Sheet_14
+  - first:
+      213: 7108245661420708925
+    second: mebuger-skill1-Sheet_15
+  - first:
+      213: 850354338046804310
+    second: mebuger-skill1-Sheet_16
+  - first:
+      213: -3015559749020525501
+    second: mebuger-skill1-Sheet_17
+  - first:
+      213: 2619940422200761840
+    second: mebuger-skill1-Sheet_18
+  - first:
+      213: -7827317644887743153
+    second: mebuger-skill1-Sheet_19
+  - first:
+      213: -2369859728316419114
+    second: mebuger-skill1-Sheet_20
+  - first:
+      213: 8322799872833566998
+    second: mebuger-skill1-Sheet_21
+  - first:
+      213: -2973997811944398268
+    second: mebuger-skill1-Sheet_22
+  - first:
+      213: 7059462814849669028
+    second: mebuger-skill1-Sheet_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a2f32d944618a0800000000000000
+      internalID: -6334800384146366207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60258a2a73413f8e0800000000000000
+      internalID: -1660961608384884218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474fb0b873712ff0800000000000000
+      internalID: -62641957607880888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3522e1fa77bdcb0800000000000000
+      internalID: -4838141780670917639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7c1b9cd739ff20800000000000000
+      internalID: 3456855609618234993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44378f98135c75480800000000000000
+      internalID: -8910436521170406588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ff50b307597ff0800000000000000
+      internalID: -37903448500342067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c52735298d212a0800000000000000
+      internalID: -6768109167007605741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5b9a51568ee590800000000000000
+      internalID: -7643023833630548981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abaf206caab507b0800000000000000
+      internalID: -5258591740374307933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b803711dccfaa50800000000000000
+      internalID: 6534666782747167562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b1d49813607d10800000000000000
+      internalID: 2121304381718639762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2d7607bffcf270800000000000000
+      internalID: 8285778576007834591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e3fdcb70e364e80800000000000000
+      internalID: -8194794268999598560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2839e97fbac4fc620800000000000000
+      internalID: 2796538195097850754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34613994cf85a260800000000000000
+      internalID: 7108245661420708925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510e7cd3c01dcb00800000000000000
+      internalID: 850354338046804310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5aa8a2649626d0800000000000000
+      internalID: -3015559749020525501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd96f5dee5eb5420800000000000000
+      internalID: 2619940422200761840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a158a218cf5390800000000000000
+      internalID: -7827317644887743153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3323612219c1fd0800000000000000
+      internalID: -2369859728316419114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61939e46366808370800000000000000
+      internalID: 8322799872833566998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e3483fbc3ab6d0800000000000000
+      internalID: -2973997811944398268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mebuger-skill1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79138070048f160800000000000000
+      internalID: 7059462814849669028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

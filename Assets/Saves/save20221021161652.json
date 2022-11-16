@@ -1,0 +1,22 @@
+{
+    "scene": {
+        "sceneName": "Stage1 CutScene2",
+        "position": {
+            "x": 15.819999694824219,
+            "y": -14.180000305175782
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [],
+        "_SupporterIndex": [],
+        "_equipIndex": [],
+        "_equipAmount": [],
+        "_itemIndex": [],
+        "_itemAmount": []
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

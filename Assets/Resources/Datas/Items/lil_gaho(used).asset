@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebda6c5f7b75e634fbc8e4fa30b7aaf5, type: 3}
+  m_Name: lil_gaho(used)
+  m_EditorClassIdentifier: 
+  sortingNum: 23
+  hash: 791584521
+  titleEng: item
+  title: "\uB9B4\uD30C\uC758 \uAC00\uD638(\uC0AC\uC6A9\uD568)"
+  describeImage: {fileID: 21300000, guid: fc750102b824d8246adb59191c0ab7fc, type: 3}
+  describe: "\u3141\u3134\u3147"
+  maxHp: -5000
+  Hp: -5000
+  maxMp: 0
+  Mp: 0
+  Speed: 0
+  ATK: 0
+  DEF: 0
+  cost: 0
+  offset: {x: -7, y: 0}
+  power: 0
+  passives: []
+  canUse: 0
+  canUseInBattle: 0
+  canUseInField: 0
+  canUseToFriend: 0
+  canUseToEnemy: 1
+  canUseToAll: 0
+  stopWhenEff: 1
+  skillTargetEffect: {fileID: 247568508940590841, guid: 484a8150f3ecfaf4a8728a702510af87,
+    type: 3}
+  skillAllTargetEffect: {fileID: 0}
+  skillUserEffect: {fileID: 1525854057899364305, guid: 2e5cf2b43535d8b4798c220506a9aa18,
+    type: 3}
+  hitSoundClip: {fileID: 0}
+  skillVideoClip: {fileID: 0}
+  helpSkill: {fileID: 0}
+  startDialogue: 
+  endDialogue: 
+  changeItem: {fileID: 0}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: maid
+  m_EditorClassIdentifier: 
+  hash: 762134849
+  titleEng: maid
+  title: "\uBA54\uC774\uB4DC\uBC84\uAC70"
+  describeImage: {fileID: 0}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 500
+  Hp: 500
+  maxMp: 500
+  Mp: 500
+  Speed: 190
+  ATK: 50
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: 21300000, guid: 4b19faf726fd3ad468b271a2801562f2, type: 3}
+  flip: 0
+  AnimatorController: {fileID: 9100000, guid: c1502f3c090222540b4f79d7d436a435, type: 2}
+  isSupporter: 1
+  useSkillNum: 0
+  charType: 1
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: 2bdd1917b7182a342bec6f6445158181, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 7758ad3ddb252f347a3f2610d154cb74, type: 2}
+  - {fileID: 11400000, guid: 33a35b33351abfc49b0cc0ef882861c0, type: 2}
+  passives: []
+  linkedChar: {fileID: 0}

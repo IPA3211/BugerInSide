@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: pirate_e
+  m_EditorClassIdentifier: 
+  sortingNum: 0
+  hash: 1188106125
+  titleEng: pirate
+  title: "\uD574\uC801\uBC84\uAC70"
+  describeImage: {fileID: 6544593569653508334, guid: 6b6a4aaf834ab55428901eddf0588688,
+    type: 3}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 9000
+  Hp: 9000
+  maxMp: 12
+  Mp: 4
+  Speed: 250
+  ATK: 800
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: 21300000, guid: 8c026a9de58cd4d41b51d641d02f4896, type: 3}
+  flip: 1
+  AnimatorController: {fileID: 9100000, guid: 3b5e51cb4823d8f44b6dc5d4d5b7e0cb, type: 2}
+  mpName: "\uCD1D\uC54C"
+  mpBarImage: {fileID: 0}
+  isSupporter: 0
+  useSkillNum: 0
+  charType: 2
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: f0bf2bcc537f1764f9f9333f43a3e024, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 5a8f221195eae204eb7d7f5eee2d6e07, type: 2}
+  - {fileID: 11400000, guid: ed857e820bee04f44912acf6315734d6, type: 2}
+  passives: []
+  linkedChar: {fileID: 0}
+  skillAI: 102
+  usePer: 0
+  usePerSkill: {fileID: 0}
+  skillNum: 0

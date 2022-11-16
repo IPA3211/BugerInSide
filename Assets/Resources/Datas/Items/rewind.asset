@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebda6c5f7b75e634fbc8e4fa30b7aaf5, type: 3}
+  m_Name: rewind
+  m_EditorClassIdentifier: 
+  sortingNum: 13
+  hash: -1138481681
+  titleEng: item
+  title: "\uB9AC\uC640\uC778\uB4DC"
+  describeImage: {fileID: 21300000, guid: 859b677c85785934687405994e797577, type: 3}
+  describe: "\uC544\uC774\uB124 , \uC9D5\uBC84\uAC70 , \uB9B4\uD30C , \uC8FC\uB974\uB974
+    , \uACE0\uC138\uAD6C , \uBE44\uCC64\uC758 \uAC00\uD638\uAC00 \uBAA8\uC5EC\uC11C
+    \uB9CC\uB4E4\uC5B4\uC84C\uB2E4. \uB531 \uD55C\uBC88 \uC2DC\uAC04\uC744 \uB418\uB3CC\uB824\uC8FC\uB294
+    \uD798\uC744 \uC9C0\uB154\uB2E4."
+  maxHp: 100000
+  Hp: 100000
+  maxMp: 100000
+  Mp: 100000
+  Speed: 0
+  ATK: 0
+  DEF: 0
+  cost: 0
+  offset: {x: -4, y: 0}
+  power: 0
+  passives: []
+  canUse: 0
+  canUseInBattle: 1
+  canUseInField: 0
+  canUseToFriend: 1
+  canUseToEnemy: 0
+  canUseToAll: 1
+  stopWhenEff: 1
+  stopWhenUserEff: 0
+  skillTargetEffect: {fileID: 0}
+  skillAllTargetEffect: {fileID: 8702529913963904331, guid: 45aa611430d8a974790a347723856e07,
+    type: 3}
+  skillUserEffect: {fileID: 1525854057899364305, guid: 2e5cf2b43535d8b4798c220506a9aa18,
+    type: 3}
+  hitSoundClip: {fileID: 0}
+  skillVideoClip: {fileID: 0}
+  helpSkill: {fileID: 0}
+  startDialogue: 
+  endDialogue: 
+  changeItem: {fileID: 0}

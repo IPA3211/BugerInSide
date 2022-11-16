@@ -1,0 +1,114 @@
+{
+    "scene": {
+        "sceneName": "Stage3 CutScene1",
+        "position": {
+            "x": 59.060001373291019,
+            "y": -2.450000762939453
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [
+            {
+                "hash": 1817793863,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 1500.0,
+                "mp": 0.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 788798543
+                    },
+                    {
+                        "hash": -1920153124
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": 1594249292
+                    },
+                    {
+                        "hash": 1594249291
+                    }
+                ]
+            }
+        ],
+        "_SupporterIndex": [
+            {
+                "hash": 762134849,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 500.0,
+                "mp": 500.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": 1728097398
+                    },
+                    {
+                        "hash": 1728097401
+                    }
+                ]
+            }
+        ],
+        "_equipIndex": [
+            {
+                "hash": 788798544
+            }
+        ],
+        "_equipAmount": [
+            1
+        ],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            },
+            {
+                "hash": 2048740190
+            },
+            {
+                "hash": -63620870
+            },
+            {
+                "hash": 339663657
+            },
+            {
+                "hash": -1737148551
+            }
+        ],
+        "_itemAmount": [
+            13,
+            1,
+            5,
+            5,
+            1
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "scene": {
+        "sceneName": "Stage2 CutScene2",
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [
+            {
+                "hash": 1817793863,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 1500.0,
+                "mp": 0.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 788798543
+                    },
+                    {
+                        "hash": -1920153124
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": 1594249292
+                    },
+                    {
+                        "hash": 1594249291
+                    }
+                ]
+            }
+        ],
+        "_SupporterIndex": [],
+        "_equipIndex": [
+            {
+                "hash": 788798544
+            }
+        ],
+        "_equipAmount": [
+            1
+        ],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            }
+        ],
+        "_itemAmount": [
+            10
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "scene": {
+        "sceneName": "Stage5 CutScene2",
+        "position": {
+            "x": -14.09999942779541,
+            "y": -1.3799999952316285
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [],
+        "_SupporterIndex": [],
+        "_equipIndex": [
+            {
+                "hash": -1920153126
+            },
+            {
+                "hash": 788798542
+            }
+        ],
+        "_equipAmount": [
+            1,
+            1
+        ],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            }
+        ],
+        "_itemAmount": [
+            5
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

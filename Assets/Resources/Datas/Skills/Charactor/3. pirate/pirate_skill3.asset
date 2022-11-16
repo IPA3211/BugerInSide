@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18239d7fd953c124c9c6a1afcc997f72, type: 3}
+  m_Name: pirate_skill3
+  m_EditorClassIdentifier: 
+  sortingNum: 0
+  hash: -1920138290
+  titleEng: skill3
+  title: "\uBC84\uC2A4\uD130\uCF5C!"
+  describeImage: {fileID: 0}
+  describe: "\uD568\uC120\uC5D0 \uC2E0\uD638\uB97C \uBCF4\uB0B4 \uB300\uD3EC\uB97C
+    \uBB34\uCC28\uBCC4\uC801\uC73C\uB85C \uBC1C\uC0AC\uD558\uC5EC \uC801 \uC804\uCCB4\uC5D0\uAC8C
+    \uACF5\uACA9\uB825\uC758 2\uBC30 \uB370\uBBF8\uC9C0 4\uD68C\uB97C \uC785\uD799\uB2C8\uB2E4."
+  maxHp: 0
+  Hp: 0
+  maxMp: 0
+  Mp: 0
+  Speed: 0
+  ATK: 0
+  DEF: 0
+  cost: 10
+  offset: {x: 0, y: 0}
+  power: 2
+  passives: []
+  canUse: 1
+  canUseInBattle: 0
+  canUseInField: 0
+  canUseToFriend: 0
+  canUseToEnemy: 1
+  canUseToAll: 1
+  stopWhenEff: 0
+  stopWhenUserEff: 0
+  skillTargetEffect: {fileID: 4444106511650788891, guid: 7e0e8442349929a45a6dbd9549e2470b,
+    type: 3}
+  skillAllTargetEffect: {fileID: 0}
+  skillUserEffect: {fileID: 0}
+  hitSoundClip: {fileID: 8300000, guid: ce7f6cf56ab29354db2acb50fda175fe, type: 3}
+  skillVideoClip: {fileID: 32900000, guid: 944d7dd5547afc645bbccea38c1b0da5, type: 3}
+  helpSkill: {fileID: 0}
+  startDialogue: 
+  endDialogue: 

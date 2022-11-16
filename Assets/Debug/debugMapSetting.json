@@ -1,0 +1,8 @@
+{
+    "ally": [
+        "knight 1", "maid"
+    ],
+    "enemy": [
+        "testDummy"
+    ]
+}

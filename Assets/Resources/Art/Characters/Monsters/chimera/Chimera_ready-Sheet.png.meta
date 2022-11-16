@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 7f145dcbc2aa4a4408e23684e2dd49fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -84260298383697233
+    second: Chimera_ready-Sheet_0
+  - first:
+      213: -5670274427541028014
+    second: Chimera_ready-Sheet_1
+  - first:
+      213: -1176202809044155523
+    second: Chimera_ready-Sheet_2
+  - first:
+      213: -7076036522675357450
+    second: Chimera_ready-Sheet_3
+  - first:
+      213: -2268708271556845054
+    second: Chimera_ready-Sheet_4
+  - first:
+      213: 659535160134067367
+    second: Chimera_ready-Sheet_5
+  - first:
+      213: -3212504796117979093
+    second: Chimera_ready-Sheet_6
+  - first:
+      213: 1614456927834762852
+    second: Chimera_ready-Sheet_7
+  - first:
+      213: 2562721144081689283
+    second: Chimera_ready-Sheet_8
+  - first:
+      213: -8229918339387323484
+    second: Chimera_ready-Sheet_9
+  - first:
+      213: 1507759555936928572
+    second: Chimera_ready-Sheet_10
+  - first:
+      213: -5302459982318107403
+    second: Chimera_ready-Sheet_11
+  - first:
+      213: 6407435912063853071
+    second: Chimera_ready-Sheet_12
+  - first:
+      213: -5920855769509123264
+    second: Chimera_ready-Sheet_13
+  - first:
+      213: -4472794074043180755
+    second: Chimera_ready-Sheet_14
+  - first:
+      213: -7161077788832759425
+    second: Chimera_ready-Sheet_15
+  - first:
+      213: -922813930135517696
+    second: Chimera_ready-Sheet_16
+  - first:
+      213: -4980870712369442826
+    second: Chimera_ready-Sheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faadb2e74b5a4def0800000000000000
+      internalID: -84260298383697233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538f6753732f41b0800000000000000
+      internalID: -5670274427541028014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d734b17e6c94dafe0800000000000000
+      internalID: -1176202809044155523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8be38e54edccd90800000000000000
+      internalID: -7076036522675357450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2022dded8dde380e0800000000000000
+      internalID: -2268708271556845054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4eba8dbb3272900800000000000000
+      internalID: 659535160134067367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20362498e3ea63d0800000000000000
+      internalID: -3212504796117979093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e62c8a504b76610800000000000000
+      internalID: 1614456927834762852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2f5b7d4d909320800000000000000
+      internalID: 2562721144081689283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab8852dfd479cd80800000000000000
+      internalID: -8229918339387323484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334252e353ace410800000000000000
+      internalID: 1507759555936928572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4843e5db0e966b0800000000000000
+      internalID: -5302459982318107403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02a5a39309cbe850800000000000000
+      internalID: 6407435912063853071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b26143c05e4dda0800000000000000
+      internalID: -5920855769509123264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d291f2fcc717de1c0800000000000000
+      internalID: -4472794074043180755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f710fab21bdbe9c90800000000000000
+      internalID: -7161077788832759425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0068d7cae918133f0800000000000000
+      internalID: -922813930135517696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimera_ready-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 141
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff82151a7460eab0800000000000000
+      internalID: -4980870712369442826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

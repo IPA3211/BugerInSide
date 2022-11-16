@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 5670bb25cb2010c4298bb4a9ff72ed65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7728877413809948791
+    second: guinness_skill2_0
+  - first:
+      213: -3240113533972138029
+    second: guinness_skill2_1
+  - first:
+      213: -5183923493750303691
+    second: guinness_skill2_2
+  - first:
+      213: -7421468652043070431
+    second: guinness_skill2_3
+  - first:
+      213: 423511386019131501
+    second: guinness_skill2_4
+  - first:
+      213: -3348747395107700560
+    second: guinness_skill2_5
+  - first:
+      213: -3010712596624925618
+    second: guinness_skill2_6
+  - first:
+      213: 5080151661321974895
+    second: guinness_skill2_7
+  - first:
+      213: 6330623767674098256
+    second: guinness_skill2_8
+  - first:
+      213: -7173069213820233215
+    second: guinness_skill2_9
+  - first:
+      213: -5695881725303578554
+    second: guinness_skill2_10
+  - first:
+      213: -1942752470746843827
+    second: guinness_skill2_11
+  - first:
+      213: 8680097981753372040
+    second: guinness_skill2_12
+  - first:
+      213: -8925129246534983595
+    second: guinness_skill2_13
+  - first:
+      213: -9013008588604965073
+    second: guinness_skill2_14
+  - first:
+      213: -7847298392621526429
+    second: guinness_skill2_15
+  - first:
+      213: -9010467737070700184
+    second: guinness_skill2_16
+  - first:
+      213: 8489474725154681589
+    second: guinness_skill2_17
+  - first:
+      213: 6568860389733671736
+    second: guinness_skill2_18
+  - first:
+      213: -5668035017223874688
+    second: guinness_skill2_19
+  - first:
+      213: -4569047158088750405
+    second: guinness_skill2_20
+  - first:
+      213: -2108510104733582119
+    second: guinness_skill2_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 29
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guinness_skill2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788eaafe0d724b60800000000000000
+      internalID: 7728877413809948791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b7af58edc803d0800000000000000
+      internalID: -3240113533972138029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534163c4c010f08b0800000000000000
+      internalID: -5183923493750303691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1249643e495a10990800000000000000
+      internalID: -7421468652043070431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f00a9c5d90e500800000000000000
+      internalID: 423511386019131501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_5
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b047109cfbd681d0800000000000000
+      internalID: -3348747395107700560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_6
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c906548dcc736d0800000000000000
+      internalID: -3010712596624925618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f43a2503508640800000000000000
+      internalID: 5080151661321974895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_8
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521cde86c4ead750800000000000000
+      internalID: 6330623767674098256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_9
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a54f8fd83247c90800000000000000
+      internalID: -7173069213820233215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_10
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64024a8bfb924f0b0800000000000000
+      internalID: -5695881725303578554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_11
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453f96cbe4f905e0800000000000000
+      internalID: -1942752470746843827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_12
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88daef11027e57870800000000000000
+      internalID: 8680097981753372040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_13
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55025d5dc32932480800000000000000
+      internalID: -8925129246534983595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_14
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff7ae017c5be280800000000000000
+      internalID: -9013008588604965073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_15
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362dc4d40bbc81390800000000000000
+      internalID: -7847298392621526429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_16
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86978c7255364f280800000000000000
+      internalID: -9010467737070700184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_17
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2708a884ca0d570800000000000000
+      internalID: 8489474725154681589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_18
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a53d98b7492b50800000000000000
+      internalID: 6568860389733671736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_19
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08755efae281751b0800000000000000
+      internalID: -5668035017223874688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_20
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaac1c41db7790c0800000000000000
+      internalID: -4569047158088750405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinness_skill2_21
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 0
+        width: 249
+        height: 121
+      alignment: 9
+      pivot: {x: 0.045, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc780a2b311db2e0800000000000000
+      internalID: -2108510104733582119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

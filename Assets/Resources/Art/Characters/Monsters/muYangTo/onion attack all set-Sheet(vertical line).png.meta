@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 6c0ea02dff0c4aa4188288f23a854749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6154213443858370414
+    second: onion attack all set-Sheet(vertical line)_0
+  - first:
+      213: -2510546276669490418
+    second: onion attack all set-Sheet(vertical line)_1
+  - first:
+      213: -1821476186501966271
+    second: onion attack all set-Sheet(vertical line)_2
+  - first:
+      213: -4441567306950072064
+    second: onion attack all set-Sheet(vertical line)_3
+  - first:
+      213: 5885403339913239660
+    second: onion attack all set-Sheet(vertical line)_4
+  - first:
+      213: 1364800832856709179
+    second: onion attack all set-Sheet(vertical line)_5
+  - first:
+      213: -2858840452741991892
+    second: onion attack all set-Sheet(vertical line)_6
+  - first:
+      213: 8893310570265742393
+    second: onion attack all set-Sheet(vertical line)_7
+  - first:
+      213: -3383601422677486218
+    second: onion attack all set-Sheet(vertical line)_8
+  - first:
+      213: 2411212682495396171
+    second: onion attack all set-Sheet(vertical line)_9
+  - first:
+      213: 4044619955045422784
+    second: onion attack all set-Sheet(vertical line)_10
+  - first:
+      213: 3787202791452997744
+    second: onion attack all set-Sheet(vertical line)_11
+  - first:
+      213: 1164322100575980512
+    second: onion attack all set-Sheet(vertical line)_12
+  - first:
+      213: -354302606849860678
+    second: onion attack all set-Sheet(vertical line)_13
+  - first:
+      213: -6678626958768698283
+    second: onion attack all set-Sheet(vertical line)_14
+  - first:
+      213: 2753243049280134944
+    second: onion attack all set-Sheet(vertical line)_15
+  - first:
+      213: 5599673161960346679
+    second: onion attack all set-Sheet(vertical line)_16
+  - first:
+      213: 5718569600668699673
+    second: onion attack all set-Sheet(vertical line)_17
+  - first:
+      213: -558099398791375004
+    second: onion attack all set-Sheet(vertical line)_18
+  - first:
+      213: 1010267723256137206
+    second: onion attack all set-Sheet(vertical line)_19
+  - first:
+      213: 1434972163853913507
+    second: onion attack all set-Sheet(vertical line)_20
+  - first:
+      213: -8936822206579636316
+    second: onion attack all set-Sheet(vertical line)_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29073eeaa77d79aa0800000000000000
+      internalID: -6154213443858370414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b7fea767fb82dd0800000000000000
+      internalID: -2510546276669490418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14697b81f01d8b6e0800000000000000
+      internalID: -1821476186501966271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a04711126c52c0800000000000000
+      internalID: -4441567306950072064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1d6bc7272da150800000000000000
+      internalID: 5885403339913239660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d49f502fb0f210800000000000000
+      internalID: 1364800832856709179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fbc841cb5358d0800000000000000
+      internalID: -2858840452741991892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8ae948d26b6b70800000000000000
+      internalID: 8893310570265742393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6755dc3ee680b01d0800000000000000
+      internalID: -3383601422677486218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490e0ad829567120800000000000000
+      internalID: 2411212682495396171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c650f77b60612830800000000000000
+      internalID: 4044619955045422784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787ce49fd8de8430800000000000000
+      internalID: 3787202791452997744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc7f818c0882010800000000000000
+      internalID: 1164322100575980512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb18bff7a3451bf0800000000000000
+      internalID: -354302606849860678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c8e377a20c053a0800000000000000
+      internalID: -6678626958768698283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd7ac47fb753620800000000000000
+      internalID: 2753243049280134944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345fec821906bd40800000000000000
+      internalID: 5599673161960346679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c8437e0c07c5f40800000000000000
+      internalID: 5718569600668699673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675ea1cd8b3148f0800000000000000
+      internalID: -558099398791375004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f589b44421350e00800000000000000
+      internalID: 1010267723256137206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0619849b0ae310800000000000000
+      internalID: 1434972163853913507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onion attack all set-Sheet(vertical line)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78ffb6d870af380800000000000000
+      internalID: -8936822206579636316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

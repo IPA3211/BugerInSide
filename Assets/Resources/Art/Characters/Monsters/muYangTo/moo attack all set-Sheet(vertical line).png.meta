@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: dfcef36310c7efc4c83c4f98b1884e53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 423469366657734700
+    second: moo attack all set-Sheet(vertical line)_0
+  - first:
+      213: 4305259448537742907
+    second: moo attack all set-Sheet(vertical line)_1
+  - first:
+      213: 4181293126627048272
+    second: moo attack all set-Sheet(vertical line)_2
+  - first:
+      213: -8854342519555359864
+    second: moo attack all set-Sheet(vertical line)_3
+  - first:
+      213: -6596283865627167877
+    second: moo attack all set-Sheet(vertical line)_4
+  - first:
+      213: 9064852546385406632
+    second: moo attack all set-Sheet(vertical line)_5
+  - first:
+      213: 7579462339111525514
+    second: moo attack all set-Sheet(vertical line)_6
+  - first:
+      213: -7645061428823752050
+    second: moo attack all set-Sheet(vertical line)_7
+  - first:
+      213: -4004102571330012110
+    second: moo attack all set-Sheet(vertical line)_8
+  - first:
+      213: -3723253506073518798
+    second: moo attack all set-Sheet(vertical line)_9
+  - first:
+      213: 8771110430017432836
+    second: moo attack all set-Sheet(vertical line)_10
+  - first:
+      213: -1242479232888163778
+    second: moo attack all set-Sheet(vertical line)_11
+  - first:
+      213: 4976798919000783022
+    second: moo attack all set-Sheet(vertical line)_12
+  - first:
+      213: 6362625171463892957
+    second: moo attack all set-Sheet(vertical line)_13
+  - first:
+      213: 6529544272582021032
+    second: moo attack all set-Sheet(vertical line)_14
+  - first:
+      213: -6226651086970442234
+    second: moo attack all set-Sheet(vertical line)_15
+  - first:
+      213: 593198314221271560
+    second: moo attack all set-Sheet(vertical line)_16
+  - first:
+      213: 609795455507869328
+    second: moo attack all set-Sheet(vertical line)_17
+  - first:
+      213: 3057947607739644661
+    second: moo attack all set-Sheet(vertical line)_18
+  - first:
+      213: -2446664185262095235
+    second: moo attack all set-Sheet(vertical line)_19
+  - first:
+      213: 4326920626260653280
+    second: moo attack all set-Sheet(vertical line)_20
+  - first:
+      213: 2468683443450182713
+    second: moo attack all set-Sheet(vertical line)_21
+  - first:
+      213: -7413524975291723669
+    second: moo attack all set-Sheet(vertical line)_22
+  - first:
+      213: -2395528061897191716
+    second: moo attack all set-Sheet(vertical line)_23
+  - first:
+      213: 3922928950778595549
+    second: moo attack all set-Sheet(vertical line)_24
+  - first:
+      213: -8111889240917440528
+    second: moo attack all set-Sheet(vertical line)_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d4e4352770e500800000000000000
+      internalID: 423469366657734700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7cff78aa5fbb30800000000000000
+      internalID: 4305259448537742907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b336af1ffe60a30800000000000000
+      internalID: 4181293126627048272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf34a046e0f1580800000000000000
+      internalID: -8854342519555359864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f6a7d5ca4574a0800000000000000
+      internalID: -6596283865627167877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae8900d53dccd70800000000000000
+      internalID: 9064852546385406632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c9137f6d8af2960800000000000000
+      internalID: 7579462339111525514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828be0c22947e590800000000000000
+      internalID: -7645061428823752050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c75af0de19e68c0800000000000000
+      internalID: -4004102571330012110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d92c1b9a8545cc0800000000000000
+      internalID: -3723253506073518798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da9eaf67e39b970800000000000000
+      internalID: 8771110430017432836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32b6ea78b3d1cee0800000000000000
+      internalID: -1242479232888163778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8f695af34211540800000000000000
+      internalID: 4976798919000783022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf601002e59c4850800000000000000
+      internalID: 6362625171463892957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0070cbe99d9a50800000000000000
+      internalID: 6529544272582021032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea3dc93dd7699a0800000000000000
+      internalID: -6226651086970442234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af48059b67b3800800000000000000
+      internalID: 593198314221271560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea1376cbd667800800000000000000
+      internalID: 609795455507869328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fab315c523007a20800000000000000
+      internalID: 3057947607739644661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7448c0f2e3bb0ed0800000000000000
+      internalID: -2446664185262095235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b393726f4c0c30800000000000000
+      internalID: 4326920626260653280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7cbd1386824220800000000000000
+      internalID: 2468683443450182713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b601042405edd1990800000000000000
+      internalID: -7413524975291723669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde43257bef51ced0800000000000000
+      internalID: -2395528061897191716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8014e981b017630800000000000000
+      internalID: 3922928950778595549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moo attack all set-Sheet(vertical line)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78dc9c6b7cc6f80800000000000000
+      internalID: -8111889240917440528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

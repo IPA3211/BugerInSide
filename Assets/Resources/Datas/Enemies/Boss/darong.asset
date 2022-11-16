@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: darong
+  m_EditorClassIdentifier: 
+  sortingNum: 0
+  hash: -1775255623
+  titleEng: darong
+  title: "\uB2E4\uB871"
+  describeImage: {fileID: 6300881987242188622, guid: 8780c40c3e4b1f54fbf8138fa369fd39,
+    type: 3}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 2000
+  Hp: 2000
+  maxMp: 100
+  Mp: 0
+  Speed: 200
+  ATK: 400
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: -2493908026376926080, guid: a198e2af02cd49d41ba6cf637b3d198d,
+    type: 3}
+  flip: 1
+  AnimatorController: {fileID: 9100000, guid: 536f20dd1b076054c8ba519d82c6f615, type: 2}
+  mpName: "\uB9C8\uB098"
+  mpBarImage: {fileID: -8619046075498376970, guid: c7869c0bf9426bc4ab4f040bab688c85,
+    type: 3}
+  isSupporter: 0
+  useSkillNum: 0
+  charType: 0
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: 92fd13e0d6dddb34494bba9c7169f058, type: 2}
+  skills:
+  - {fileID: 11400000, guid: e7100f38e40661043a14cd4a5cc04096, type: 2}
+  passives: []
+  linkedChar: {fileID: 0}
+  skillAI: 001
+  usePer: 0
+  usePerSkill: {fileID: 0}
+  skillNum: 0

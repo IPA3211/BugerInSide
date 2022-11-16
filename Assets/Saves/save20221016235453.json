@@ -1,0 +1,38 @@
+{
+    "scene": {
+        "sceneName": "Stage4 CutScene2",
+        "position": {
+            "x": 16.329998016357423,
+            "y": 17.30622673034668
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [],
+        "_SupporterIndex": [],
+        "_equipIndex": [
+            {
+                "hash": -116790462
+            },
+            {
+                "hash": 1533632166
+            }
+        ],
+        "_equipAmount": [
+            1,
+            1
+        ],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            }
+        ],
+        "_itemAmount": [
+            5
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

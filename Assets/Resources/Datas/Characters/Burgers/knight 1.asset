@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: knight 1
+  m_EditorClassIdentifier: 
+  sortingNum: 0
+  hash: -733845828
+  titleEng: knight
+  title: "\uAE30\uC0AC\uBC84\uAC70"
+  describeImage: {fileID: -5603026134705578469, guid: 61f9a02c3a70e4444b802c5fb8d8812d,
+    type: 3}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 1000
+  Hp: 1000
+  maxMp: 100
+  Mp: 0
+  Speed: 200
+  ATK: 100
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: 21300000, guid: 5fd518b8c501fce439a4145bd7cc8b69, type: 3}
+  flip: 0
+  AnimatorController: {fileID: 9100000, guid: 0c6e4b8d87f34784daab6dec25825fcd, type: 2}
+  mpName: "\uBE5B"
+  mpBarImage: {fileID: -1587315828048816690, guid: 583c45ef0d5e1bb489ba073a21748ba3,
+    type: 3}
+  isSupporter: 0
+  useSkillNum: 0
+  charType: 0
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: 2bdd1917b7182a342bec6f6445158181, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 792879d686b53ab4e871edea4190c32e, type: 2}
+  - {fileID: 11400000, guid: 8a2a4d397b281b14ab0acb52a3f9e6cb, type: 2}
+  - {fileID: 11400000, guid: 1431d85c782c5c543a87d29abd0a87fe, type: 2}
+  passives: []
+  linkedChar: {fileID: 0}
+  skillAI: 
+  usePer: 0
+  usePerSkill: {fileID: 0}
+  skillNum: 0

@@ -1,0 +1,22 @@
+{
+    "scene": {
+        "sceneName": "Stage7 CutScene5",
+        "position": {
+            "x": 40.66999816894531,
+            "y": 6.170000076293945
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [],
+        "_SupporterIndex": [],
+        "_equipIndex": [],
+        "_equipAmount": [],
+        "_itemIndex": [],
+        "_itemAmount": []
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

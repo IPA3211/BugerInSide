@@ -1,0 +1,157 @@
+{
+    "scene": {
+        "sceneName": "Stage5 CutScene4",
+        "position": {
+            "x": 18.69000244140625,
+            "y": -12.380000114440918
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [
+            {
+                "hash": 1817793863,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 4000.0,
+                "mp": 0.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 788798543
+                    },
+                    {
+                        "hash": -1920153127
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": 1594249292
+                    },
+                    {
+                        "hash": 1594249291
+                    }
+                ]
+            },
+            {
+                "hash": 356662622,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 500.0,
+                "mp": 500.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": []
+            }
+        ],
+        "_SupporterIndex": [
+            {
+                "hash": 762134849,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 500.0,
+                "mp": 410.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": 1728097398
+                    },
+                    {
+                        "hash": 1728097401
+                    }
+                ]
+            },
+            {
+                "hash": 1502598519,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 1,
+                "hp": 500.0,
+                "mp": 500.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": -944047006
+                    },
+                    {
+                        "hash": -1347331533
+                    }
+                ]
+            }
+        ],
+        "_equipIndex": [
+            {
+                "hash": -1920153124
+            },
+            {
+                "hash": 788798544
+            }
+        ],
+        "_equipAmount": [
+            1,
+            1
+        ],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            }
+        ],
+        "_itemAmount": [
+            20
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18239d7fd953c124c9c6a1afcc997f72, type: 3}
+  m_Name: jingmom_attack
+  m_EditorClassIdentifier: 
+  hash: -578950800
+  titleEng: skill1
+  title: "\uC9D5\uB9D8 \uB3CC\uB358\uC9C0\uAE30"
+  describeImage: {fileID: 0}
+  describe: 
+  maxHp: 0
+  Hp: 0
+  maxMp: 0
+  Mp: 0
+  Speed: 0
+  ATK: 0
+  DEF: 0
+  cost: 0
+  offset: {x: -4.5, y: 0}
+  power: 1
+  passives: []
+  canUse: 1
+  canUseInField: 0
+  canUseToFriend: 0
+  canUseToEnemy: 1
+  canUseToAll: 0
+  skillTargetEffect: {fileID: 5040384905135711867, guid: 18fe202901a9eac4892625eec112e257,
+    type: 3}
+  skillAllTargetEffect: {fileID: 0}
+  skillUserEffect: {fileID: 0}
+  hitSoundClip: {fileID: 8300000, guid: 959df7a810b37694f9bccadb5a088684, type: 3}
+  skillVideoClip: {fileID: 0}

@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 8984dd6ff1a8fe34484063cfe7c537b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 433762821472171579
+    second: segu300-attack-Sheet_0
+  - first:
+      213: -3121379622658427370
+    second: segu300-attack-Sheet_1
+  - first:
+      213: 2678884779192575823
+    second: segu300-attack-Sheet_2
+  - first:
+      213: -6346397979517728136
+    second: segu300-attack-Sheet_3
+  - first:
+      213: -8478967223714608521
+    second: segu300-attack-Sheet_4
+  - first:
+      213: -7488959069908776349
+    second: segu300-attack-Sheet_5
+  - first:
+      213: -5804668238632114872
+    second: segu300-attack-Sheet_6
+  - first:
+      213: 3586910191269593087
+    second: segu300-attack-Sheet_7
+  - first:
+      213: -4808670228283478974
+    second: segu300-attack-Sheet_8
+  - first:
+      213: 2850016939234111201
+    second: segu300-attack-Sheet_9
+  - first:
+      213: -5745094632664429763
+    second: segu300-attack-Sheet_10
+  - first:
+      213: -6009456655223910044
+    second: segu300-attack-Sheet_11
+  - first:
+      213: 1235270470210202499
+    second: segu300-attack-Sheet_12
+  - first:
+      213: 1144725844260334119
+    second: segu300-attack-Sheet_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36be9aecf8050600800000000000000
+      internalID: 433762821472171579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163d4e55c1aea4d0800000000000000
+      internalID: -3121379622658427370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4769f9638f4d2520800000000000000
+      internalID: 2678884779192575823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac69b89a01de7a0800000000000000
+      internalID: -6346397979517728136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8f48cb38a45a80800000000000000
+      internalID: -8478967223714608521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac5a4776fd11890800000000000000
+      internalID: -7488959069908776349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845275dcdfca17fa0800000000000000
+      internalID: -5804668238632114872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3adf80d347c130800000000000000
+      internalID: 3586910191269593087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24caa21a7eb244db0800000000000000
+      internalID: -4808670228283478974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee25e26e4b4d8720800000000000000
+      internalID: 2850016939234111201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8803ded25540b0800000000000000
+      internalID: -5745094632664429763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619544f20f1a9ca0800000000000000
+      internalID: -6009456655223910044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba86aa2ff842110800000000000000
+      internalID: 1235270470210202499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: segu300-attack-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 0
+        width: 201
+        height: 177
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa8502712e2ef00800000000000000
+      internalID: 1144725844260334119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

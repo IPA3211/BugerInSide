@@ -1,0 +1,1728 @@
+fileFormatVersion: 2
+guid: e2567e1f40a39994a94fe3fe907c8219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7763016082736957905
+    second: pirate_skill3_0
+  - first:
+      213: -702410972183433867
+    second: pirate_skill3_1
+  - first:
+      213: 5023047315729589588
+    second: pirate_skill3_2
+  - first:
+      213: 7259236608339455690
+    second: pirate_skill3_3
+  - first:
+      213: 2924369714128970473
+    second: pirate_skill3_4
+  - first:
+      213: 4840855056028157138
+    second: pirate_skill3_5
+  - first:
+      213: -4513172267293612548
+    second: pirate_skill3_6
+  - first:
+      213: 7523183998818766193
+    second: pirate_skill3_7
+  - first:
+      213: -4123644972169940712
+    second: pirate_skill3_8
+  - first:
+      213: -1170404229698385955
+    second: pirate_skill3_9
+  - first:
+      213: 2748006851597714393
+    second: pirate_skill3_10
+  - first:
+      213: 7771824638319116246
+    second: pirate_skill3_11
+  - first:
+      213: -3025930003480768738
+    second: pirate_skill3_12
+  - first:
+      213: -3451892136334094351
+    second: pirate_skill3_13
+  - first:
+      213: 4423585998436259925
+    second: pirate_skill3_14
+  - first:
+      213: -5197890667767970270
+    second: pirate_skill3_15
+  - first:
+      213: 2272016913651014555
+    second: pirate_skill3_16
+  - first:
+      213: -7695598853814934240
+    second: pirate_skill3_17
+  - first:
+      213: 981771557435221683
+    second: pirate_skill3_18
+  - first:
+      213: -6098159335285308944
+    second: pirate_skill3_19
+  - first:
+      213: 3032523102906174374
+    second: pirate_skill3_20
+  - first:
+      213: 5299507227580762150
+    second: pirate_skill3_21
+  - first:
+      213: -3836626115704614201
+    second: pirate_skill3_22
+  - first:
+      213: -2244330235391220294
+    second: pirate_skill3_23
+  - first:
+      213: 3278961653192928693
+    second: pirate_skill3_24
+  - first:
+      213: 8189831576117400861
+    second: pirate_skill3_25
+  - first:
+      213: -7667490565157083308
+    second: pirate_skill3_26
+  - first:
+      213: 7940956096975867912
+    second: pirate_skill3_27
+  - first:
+      213: -8253319574398958165
+    second: pirate_skill3_28
+  - first:
+      213: 6791838756092081014
+    second: pirate_skill3_29
+  - first:
+      213: 2873908693069237237
+    second: pirate_skill3_30
+  - first:
+      213: 4563629485824374624
+    second: pirate_skill3_31
+  - first:
+      213: 9186443103521828456
+    second: pirate_skill3_32
+  - first:
+      213: 8550789599752306511
+    second: pirate_skill3_33
+  - first:
+      213: 2297950182487525613
+    second: pirate_skill3_34
+  - first:
+      213: 4709426177285424593
+    second: pirate_skill3_35
+  - first:
+      213: 8890751510717577655
+    second: pirate_skill3_36
+  - first:
+      213: -4779965499621249523
+    second: pirate_skill3_37
+  - first:
+      213: 1516982100798585935
+    second: pirate_skill3_38
+  - first:
+      213: 773316525004212148
+    second: pirate_skill3_39
+  - first:
+      213: -1248977358350035802
+    second: pirate_skill3_40
+  - first:
+      213: 483129125683481999
+    second: pirate_skill3_41
+  - first:
+      213: -4579976989165625431
+    second: pirate_skill3_42
+  - first:
+      213: -6102513485763235521
+    second: pirate_skill3_43
+  - first:
+      213: 6217625681499354828
+    second: pirate_skill3_44
+  - first:
+      213: -8121985429655302101
+    second: pirate_skill3_45
+  - first:
+      213: -3107492884602579136
+    second: pirate_skill3_46
+  - first:
+      213: -7056805185573450238
+    second: pirate_skill3_47
+  - first:
+      213: 6929636404855296962
+    second: pirate_skill3_48
+  - first:
+      213: -8493478757440877828
+    second: pirate_skill3_49
+  - first:
+      213: 5098237770184237433
+    second: pirate_skill3_50
+  - first:
+      213: 4820771868608141009
+    second: pirate_skill3_51
+  - first:
+      213: -732965005834719240
+    second: pirate_skill3_52
+  - first:
+      213: -7770299870633987467
+    second: pirate_skill3_53
+  - first:
+      213: 6597001443517280746
+    second: pirate_skill3_54
+  - first:
+      213: 2853793755786483905
+    second: pirate_skill3_55
+  - first:
+      213: 4837058677766039634
+    second: pirate_skill3_56
+  - first:
+      213: 4825380485636809233
+    second: pirate_skill3_57
+  - first:
+      213: -4602821325854865298
+    second: pirate_skill3_58
+  - first:
+      213: 3544280684643865165
+    second: pirate_skill3_59
+  - first:
+      213: -5979143146489443325
+    second: pirate_skill3_eff_0
+  - first:
+      213: -9034136664680056363
+    second: pirate_skill3_eff_1
+  - first:
+      213: -8874292893170244329
+    second: pirate_skill3_eff_2
+  - first:
+      213: 5913400218640689897
+    second: pirate_skill3_eff_3
+  - first:
+      213: 4882510924065521404
+    second: pirate_skill3_eff_4
+  - first:
+      213: -6590188634146695985
+    second: pirate_skill3_eff_5
+  - first:
+      213: 2076269914688623576
+    second: pirate_skill3_eff_6
+  - first:
+      213: -4867149751067397391
+    second: pirate_skill3_eff_7
+  - first:
+      213: 5933240158161058987
+    second: pirate_skill3_eff_8
+  - first:
+      213: -4648116679788078395
+    second: pirate_skill3_eff_9
+  - first:
+      213: 5898800617541834503
+    second: pirate_skill3_eff_10
+  - first:
+      213: 671980525076398673
+    second: pirate_skill3_eff_11
+  - first:
+      213: -6510344878911276352
+    second: pirate_skill3_eff_12
+  - first:
+      213: 5241539929109219269
+    second: pirate_skill3_eff_13
+  - first:
+      213: 1942907730436076959
+    second: pirate_skill3_eff_14
+  - first:
+      213: -8395248572796995681
+    second: pirate_skill3_eff_15
+  - first:
+      213: -3249607787700671409
+    second: pirate_skill3_eff_16
+  - first:
+      213: 9047785809779592241
+    second: pirate_skill3_eff_17
+  - first:
+      213: 5479438949269237531
+    second: pirate_skill3_eff_18
+  - first:
+      213: 3047235837050711648
+    second: pirate_skill3_eff_19
+  - first:
+      213: -3403965469391514554
+    second: pirate_skill3_eff_20
+  - first:
+      213: -6922819607167753669
+    second: pirate_skill3_eff_21
+  - first:
+      213: 1982621798525955085
+    second: pirate_skill3_eff_22
+  - first:
+      213: 3249510555568636226
+    second: pirate_skill3_eff_23
+  - first:
+      213: 1483634300015279478
+    second: pirate_skill3_eff_24
+  - first:
+      213: 2357970291657491451
+    second: pirate_skill3_eff_25
+  - first:
+      213: 5935277964467642450
+    second: pirate_skill3_eff_26
+  - first:
+      213: -3966214632338611805
+    second: pirate_skill3_eff_27
+  - first:
+      213: 4469081342289010070
+    second: pirate_skill3_eff_28
+  - first:
+      213: 696148809920362112
+    second: pirate_skill3_eff_29
+  - first:
+      213: -1979548719880845032
+    second: pirate_skill3_eff_30
+  - first:
+      213: 1991855656772872464
+    second: pirate_skill3_eff_31
+  - first:
+      213: -5588008161143612526
+    second: pirate_skill3_eff_32
+  - first:
+      213: -1023176714697808904
+    second: pirate_skill3_eff_33
+  - first:
+      213: 3744096994919380396
+    second: pirate_skill3_eff_34
+  - first:
+      213: -5200543488792276063
+    second: pirate_skill3_eff_35
+  - first:
+      213: -3493697732037413546
+    second: pirate_skill3_eff_36
+  - first:
+      213: 7879139612701213513
+    second: pirate_skill3_eff_37
+  - first:
+      213: 533817616745951087
+    second: pirate_skill3_eff_38
+  - first:
+      213: -2625934677865440215
+    second: pirate_skill3_eff_39
+  - first:
+      213: 3991756979130384999
+    second: pirate_skill3_eff_40
+  - first:
+      213: 1073604509221583633
+    second: pirate_skill3_eff_41
+  - first:
+      213: 8409571504035027148
+    second: pirate_skill3_eff_42
+  - first:
+      213: 3777688564389305445
+    second: pirate_skill3_eff_43
+  - first:
+      213: 2137335958920735008
+    second: pirate_skill3_eff_44
+  - first:
+      213: 8630161762549004082
+    second: pirate_skill3_eff_45
+  - first:
+      213: 5539270260231532432
+    second: pirate_skill3_eff_46
+  - first:
+      213: 919792184616924255
+    second: pirate_skill3_eff_47
+  - first:
+      213: 2550027065424350117
+    second: pirate_skill3_eff_48
+  - first:
+      213: -2138673681666458767
+    second: pirate_skill3_eff_49
+  - first:
+      213: -9160346852150761578
+    second: pirate_skill3_eff_50
+  - first:
+      213: -6518748959613806317
+    second: pirate_skill3_eff_51
+  - first:
+      213: -480747782276485296
+    second: pirate_skill3_eff_52
+  - first:
+      213: 1022056670383839449
+    second: pirate_skill3_eff_53
+  - first:
+      213: 4244829438534839578
+    second: pirate_skill3_eff_54
+  - first:
+      213: -1871029051757754742
+    second: pirate_skill3_eff_55
+  - first:
+      213: 1831497032707665560
+    second: pirate_skill3_eff_56
+  - first:
+      213: 6497265185316624486
+    second: pirate_skill3_eff_57
+  - first:
+      213: -1095297704508686596
+    second: pirate_skill3_eff_58
+  - first:
+      213: -4316411484009791941
+    second: pirate_skill3_eff_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_skill3_eff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0944bcf0d50da0800000000000000
+      internalID: -5979143146489443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b961819c40a280800000000000000
+      internalID: -9034136664680056363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71560d5b1ad28d480800000000000000
+      internalID: -8874292893170244329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaabc61b2e901250800000000000000
+      internalID: 5913400218640689897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb3e811d922c340800000000000000
+      internalID: 4882510924065521404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_5
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc49ed28a52fa84a0800000000000000
+      internalID: -6590188634146695985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_6
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d398d2ac7460dc10800000000000000
+      internalID: 2076269914688623576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_7
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23ff2b619647cb0800000000000000
+      internalID: -4867149751067397391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb54afc7a175250800000000000000
+      internalID: 5933240158161058987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_9
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 960
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad9aaa1829e7fb0800000000000000
+      internalID: -4648116679788078395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079f6198efbcd150800000000000000
+      internalID: 5898800617541834503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152c82d2aba535900800000000000000
+      internalID: 671980525076398673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab53f63db96a5a0800000000000000
+      internalID: -6510344878911276352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_13
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c49e6bc0bdb840800000000000000
+      internalID: 5241539929109219269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b000794896fa10800000000000000
+      internalID: 1942907730436076959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97745927e51e7b80800000000000000
+      internalID: -8395248572796995681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_16
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c22ca2fe217e2d0800000000000000
+      internalID: -3249607787700671409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_17
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c8bbbb141309d70800000000000000
+      internalID: 9047785809779592241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_18
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fe1ab61b0ea0c40800000000000000
+      internalID: 5479438949269237531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_19
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 768
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e6f3e49d4f94a20800000000000000
+      internalID: 3047235837050711648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6441939c07fa2c0d0800000000000000
+      internalID: -3403965469391514554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3228a6fe343def90800000000000000
+      internalID: -6922819607167753669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ce5197500b38b10800000000000000
+      internalID: 1982621798525955085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2410d8632a4981d20800000000000000
+      internalID: 3249510555568636226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dfef4098de69410800000000000000
+      internalID: 1483634300015279478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf34b29bc7139b020800000000000000
+      internalID: 2357970291657491451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_26
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502c4bbcd75e5250800000000000000
+      internalID: 5935277964467642450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_27
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a120884ecc25f8c0800000000000000
+      internalID: -3966214632338611805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d56777dcd550e30800000000000000
+      internalID: 4469081342289010070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_29
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 576
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863d1e77a739a900800000000000000
+      internalID: 696148809920362112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194ce76dea3784e0800000000000000
+      internalID: -1979548719880845032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019acc1aa2e74ab10800000000000000
+      internalID: 1991855656772872464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1d091f286372b0800000000000000
+      internalID: -5588008161143612526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36cf1f232fcc1f0800000000000000
+      internalID: -1023176714697808904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f6ca3164b5f330800000000000000
+      internalID: 3744096994919380396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d0972045f3d7b0800000000000000
+      internalID: -5200543488792276063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65572515c64e38fc0800000000000000
+      internalID: -3493697732037413546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_37
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c3c67bb3585d60800000000000000
+      internalID: 7879139612701213513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fecfc4b40886700800000000000000
+      internalID: 533817616745951087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_39
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 384
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c5372c25ece8bd0800000000000000
+      internalID: -2625934677865440215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c0c2c2d1956730800000000000000
+      internalID: 3991756979130384999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf869ec9536ee00800000000000000
+      internalID: 1073604509221583633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc851432abcc4b470800000000000000
+      internalID: 8409571504035027148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_43
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cda78fbbb0d6430800000000000000
+      internalID: 3777688564389305445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029a3250bb759ad10800000000000000
+      internalID: 2137335958920735008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_45
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23774e2066e74c770800000000000000
+      internalID: 8630161762549004082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_46
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6cff04f07fdc40800000000000000
+      internalID: 5539270260231532432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_47
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b54f5e12c3cc00800000000000000
+      internalID: 919792184616924255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab004afa14836320800000000000000
+      internalID: 2550027065424350117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_49
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 192
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b3bc12e97e152e0800000000000000
+      internalID: -2138673681666458767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697af225219efd080800000000000000
+      internalID: -9160346852150761578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319954aeb50c885a0800000000000000
+      internalID: -6518748959613806317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6ada607a0459f0800000000000000
+      internalID: -480747782276485296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d81c8a60231f2e00800000000000000
+      internalID: 1022056670383839449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d6dff52e9a8ea30800000000000000
+      internalID: 4244829438534839578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a860b859df4c806e0800000000000000
+      internalID: -1871029051757754742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_56
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee8b9f8d8ca6910800000000000000
+      internalID: 1831497032707665560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_57
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685f46134cea2a50800000000000000
+      internalID: 6497265185316624486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_58
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe75777a88bcc0f0800000000000000
+      internalID: -1095297704508686596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_skill3_eff_59
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 189
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3efd27ef960914c0800000000000000
+      internalID: -4316411484009791941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

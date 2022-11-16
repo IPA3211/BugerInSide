@@ -1,0 +1,86 @@
+{
+    "scene": {
+        "sceneName": "Stage1 CutScene1",
+        "position": {
+            "x": 57.459999084472659,
+            "y": -2.619999885559082
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [
+            {
+                "hash": 1817793863,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 1500.0,
+                "mp": 0.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 788798544
+                    },
+                    {
+                        "hash": -1920153124
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": 1594249292
+                    }
+                ]
+            }
+        ],
+        "_SupporterIndex": [
+            {
+                "hash": -2041535659,
+                "level": 1,
+                "xp": 0,
+                "useSkillNum": 0,
+                "charIndex": 0,
+                "hp": 100.0,
+                "mp": 0.0,
+                "equips": [
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    },
+                    {
+                        "hash": 0
+                    }
+                ],
+                "skills": [
+                    {
+                        "hash": -1036172648
+                    }
+                ]
+            }
+        ],
+        "_equipIndex": [],
+        "_equipAmount": [],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            }
+        ],
+        "_itemAmount": [
+            5
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

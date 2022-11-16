@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: b219cd808e799a648bd238d506eb8b09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3703291156381578139
+    second: reon_doping_0
+  - first:
+      213: -5183819695486742279
+    second: reon_doping_1
+  - first:
+      213: -5582562826827673654
+    second: reon_doping_2
+  - first:
+      213: -7372989713048208076
+    second: reon_doping_3
+  - first:
+      213: -7147932692434457337
+    second: reon_doping_4
+  - first:
+      213: -8753404408745866030
+    second: reon_doping_5
+  - first:
+      213: -1118515200712995189
+    second: reon_doping_6
+  - first:
+      213: 4811743433114184504
+    second: reon_doping_7
+  - first:
+      213: 1953843491471932976
+    second: reon_doping_8
+  - first:
+      213: 5198512974817406877
+    second: reon_doping_9
+  - first:
+      213: -7840384232455156693
+    second: reon_doping_10
+  - first:
+      213: -1130402668593012223
+    second: reon_doping_11
+  - first:
+      213: 7416147195442013758
+    second: reon_doping_12
+  - first:
+      213: 7925234597363828981
+    second: reon_doping_13
+  - first:
+      213: 6126472580334990276
+    second: reon_doping_14
+  - first:
+      213: -8245692350151329654
+    second: reon_doping_15
+  - first:
+      213: -2663422494261243715
+    second: reon_doping_16
+  - first:
+      213: -3116994546108551886
+    second: reon_doping_17
+  - first:
+      213: 1451947770314614183
+    second: reon_doping_18
+  - first:
+      213: -1428479119225254664
+    second: reon_doping_19
+  - first:
+      213: -1729586778603581220
+    second: reon_doping_20
+  - first:
+      213: 8537733361466781466
+    second: reon_doping_21
+  - first:
+      213: -4486274054294052404
+    second: reon_doping_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reon_doping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9338f39fabb46330800000000000000
+      internalID: 3703291156381578139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d6d6b37f5f08b0800000000000000
+      internalID: -5183819695486742279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc2aacfa0c682b0800000000000000
+      internalID: -5582562826827673654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df6257be0eda990800000000000000
+      internalID: -7372989713048208076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dea0d66117dcc90800000000000000
+      internalID: -7147932692434457337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4d595119a58680800000000000000
+      internalID: -8753404408745866030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e80a1e95c3a70f0800000000000000
+      internalID: -1118515200712995189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be611a82fb6c240800000000000000
+      internalID: 4811743433114184504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb4e7bd427d1b10800000000000000
+      internalID: 1953843491471932976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2048f104d42840800000000000000
+      internalID: 5198512974817406877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ccfe9a41c513390800000000000000
+      internalID: -7840384232455156693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022c5513c00050f0800000000000000
+      internalID: -1130402668593012223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a452f4927be660800000000000000
+      internalID: 7416147195442013758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8c18960e61cfd60800000000000000
+      internalID: 7925234597363828981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b9053a5a950550800000000000000
+      internalID: 6126472580334990276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88f21ebe7a619d80800000000000000
+      internalID: -8245692350151329654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db016c65a5f990bd0800000000000000
+      internalID: -2663422494261243715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_17
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dae5099f53eb4d0800000000000000
+      internalID: -3116994546108551886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_18
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e50aedca562410800000000000000
+      internalID: 1451947770314614183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_19
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc04893fc50d2ce0800000000000000
+      internalID: -1428479119225254664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_20
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01f151df54ff7e0800000000000000
+      internalID: -1729586778603581220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1faa35e14f1c7670800000000000000
+      internalID: 8537733361466781466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_doping_22
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc160c4548d8db1c0800000000000000
+      internalID: -4486274054294052404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

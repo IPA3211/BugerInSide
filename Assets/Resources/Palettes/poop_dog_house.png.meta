@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: ecc57ff6a5568c040a32871c9c57621e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7904936614953617893
+    second: poop_dog_house_0
+  - first:
+      213: -3359224628191470551
+    second: poop_dog_house_1
+  - first:
+      213: 7201411891673314380
+    second: poop_dog_house_2
+  - first:
+      213: -1180411911927838454
+    second: poop_dog_house_3
+  - first:
+      213: 4719372751323696219
+    second: poop_dog_house_4
+  - first:
+      213: -4086365912667576478
+    second: poop_dog_house_5
+  - first:
+      213: 2994952794772761869
+    second: poop_dog_house_6
+  - first:
+      213: -8059578267953731042
+    second: poop_dog_house_7
+  - first:
+      213: 958560598479465823
+    second: poop_dog_house_8
+  - first:
+      213: 1027752480098102135
+    second: poop_dog_house_9
+  - first:
+      213: -5805134946022184611
+    second: poop_dog_house_10
+  - first:
+      213: 6031448069293161611
+    second: poop_dog_house_11
+  - first:
+      213: 1748665332435069659
+    second: poop_dog_house_12
+  - first:
+      213: -691354588325550314
+    second: poop_dog_house_13
+  - first:
+      213: -8365482050965312100
+    second: poop_dog_house_14
+  - first:
+      213: -7846494579232259162
+    second: poop_dog_house_15
+  - first:
+      213: -943243867238066922
+    second: poop_dog_house_16
+  - first:
+      213: 1157580865627371573
+    second: poop_dog_house_17
+  - first:
+      213: 5315437939673885809
+    second: poop_dog_house_18
+  - first:
+      213: -8789190855437333780
+    second: poop_dog_house_19
+  - first:
+      213: 7382231212287066425
+    second: poop_dog_house_20
+  - first:
+      213: -1864197792610073034
+    second: poop_dog_house_21
+  - first:
+      213: 3188385957604268021
+    second: poop_dog_house_22
+  - first:
+      213: -388631650127327477
+    second: poop_dog_house_23
+  - first:
+      213: 8692688497551229218
+    second: poop_dog_house_24
+  - first:
+      213: 5344094700312552736
+    second: poop_dog_house_25
+  - first:
+      213: -4897861528330961114
+    second: poop_dog_house_26
+  - first:
+      213: 7593536447473394657
+    second: poop_dog_house_27
+  - first:
+      213: -3917183702665095004
+    second: poop_dog_house_28
+  - first:
+      213: 1833555938280323336
+    second: poop_dog_house_29
+  - first:
+      213: 2087575530038309245
+    second: poop_dog_house_30
+  - first:
+      213: 3091222611820206430
+    second: poop_dog_house_31
+  - first:
+      213: -4704340785723815953
+    second: poop_dog_house_32
+  - first:
+      213: 8212164524675294680
+    second: poop_dog_house_33
+  - first:
+      213: 2036847751144854587
+    second: poop_dog_house_34
+  - first:
+      213: -3921682469463562866
+    second: poop_dog_house_35
+  - first:
+      213: -4602782419293551108
+    second: poop_dog_house_36
+  - first:
+      213: 5756001208932705782
+    second: poop_dog_house_37
+  - first:
+      213: -1810493357013191795
+    second: poop_dog_house_38
+  - first:
+      213: -7922587669721773719
+    second: poop_dog_house_39
+  - first:
+      213: -8870441892696784487
+    second: poop_dog_house_40
+  - first:
+      213: -8580418511653001357
+    second: poop_dog_house_41
+  - first:
+      213: 4321241126056773528
+    second: poop_dog_house_42
+  - first:
+      213: 5556470077843472713
+    second: poop_dog_house_43
+  - first:
+      213: 1585993622336574070
+    second: poop_dog_house_44
+  - first:
+      213: 4893910436584679220
+    second: poop_dog_house_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poop_dog_house_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f5b5e7060c4290800000000000000
+      internalID: -7904936614953617893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c57e3aff2a161d0800000000000000
+      internalID: -3359224628191470551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443674f5fd80f360800000000000000
+      internalID: 7201411891673314380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09c6e4ce955e9fe0800000000000000
+      internalID: -1180411911927838454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c8e4553849e7140800000000000000
+      internalID: 4719372751323696219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2672f295adf4a47c0800000000000000
+      internalID: -4086365912667576478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d6e7be2b5309920800000000000000
+      internalID: 2994952794772761869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae82b4440a62090800000000000000
+      internalID: -8059578267953731042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ded0029cd7d4d00800000000000000
+      internalID: 958560598479465823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b26457f6f434e00800000000000000
+      internalID: 1027752480098102135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5924250684007fa0800000000000000
+      internalID: -5805134946022184611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c3f63201204b350800000000000000
+      internalID: 6031448069293161611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda25d2ead1844810800000000000000
+      internalID: 1748665332435069659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e4053aa0d766f0800000000000000
+      internalID: -691354588325550314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6e499566d7eb80800000000000000
+      internalID: -8365482050965312100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a345d0b0c6ab1390800000000000000
+      internalID: -7846494579232259162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61595b443bce8e2f0800000000000000
+      internalID: -943243867238066922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53832860aad801010800000000000000
+      internalID: 1157580865627371573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c65ebc4aa34c940800000000000000
+      internalID: 5315437939673885809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceacb8eeb75860680800000000000000
+      internalID: -8789190855437333780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310c22cc24f27660800000000000000
+      internalID: 7382231212287066425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c86c0cf90126e0800000000000000
+      internalID: -1864197792610073034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f798d9b22c6f3c20800000000000000
+      internalID: 3188385957604268021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fcfa1c29d4b9af0800000000000000
+      internalID: -388631650127327477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2214aa7f122a2a870800000000000000
+      internalID: 8692688497551229218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256d22d0d90a2a40800000000000000
+      internalID: 5344094700312552736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff7c4d3ec470cb0800000000000000
+      internalID: -4897861528330961114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e322acaa29a16960800000000000000
+      internalID: 7593536447473394657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a892b23d2e53a9c0800000000000000
+      internalID: -3917183702665095004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b1094969127910800000000000000
+      internalID: 1833555938280323336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713bb552ee88fc10800000000000000
+      internalID: 2087575530038309245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d233669a36ea20800000000000000
+      internalID: 3091222611820206430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7cc84eaf2d6beb0800000000000000
+      internalID: -4704340785723815953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e552102877f170800000000000000
+      internalID: 8212164524675294680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34da8cec36544c10800000000000000
+      internalID: 2036847751144854587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856fbd62926399c0800000000000000
+      internalID: -3921682469463562866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54897b6c1af10c0800000000000000
+      internalID: -4602782419293551108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f527295a9c61ef40800000000000000
+      internalID: 5756001208932705782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83360b52e5dfd6e0800000000000000
+      internalID: -1810493357013191795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96908547d705d0290800000000000000
+      internalID: -7922587669721773719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918011a81cd5e480800000000000000
+      internalID: -8870441892696784487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377acbc13da3ce880800000000000000
+      internalID: -8580418511653001357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974c63c8e128fb30800000000000000
+      internalID: 4321241126056773528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94182faa81c8c1d40800000000000000
+      internalID: 5556470077843472713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672186bebc4920610800000000000000
+      internalID: 1585993622336574070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poop_dog_house_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e43fec99aae340800000000000000
+      internalID: 4893910436584679220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: jingmom
+  m_EditorClassIdentifier: 
+  hash: -2041535659
+  titleEng: jingmom
+  title: "\uC9D5\uB9D8"
+  describeImage: {fileID: 0}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 100
+  Hp: 100
+  maxMp: 1
+  Mp: 0
+  Speed: 200
+  ATK: 100
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: 21300000, guid: ee167d11ef1f4234eb37716a64fac422, type: 3}
+  flip: 1
+  AnimatorController: {fileID: 9100000, guid: e49617a4e5770b4429dcaf728a15040c, type: 2}
+  isSupporter: 1
+  useSkillNum: 0
+  charType: 0
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: df7c944a7a31ae74fab8726aa712a4f6, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 4a4c333e5b1baeb44a165179e7221d01, type: 2}
+  passives: []
+  linkedChar: {fileID: 0}

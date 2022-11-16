@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: f5ab87ba9d760a843b8691330257e0fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5494255763925420576
+    second: reon_ transform_0
+  - first:
+      213: 1317534355987566198
+    second: reon_ transform_1
+  - first:
+      213: -1009391938318638287
+    second: reon_ transform_2
+  - first:
+      213: -7247261712887281120
+    second: reon_ transform_3
+  - first:
+      213: 5863350887397185990
+    second: reon_ transform_4
+  - first:
+      213: -1928420903607638143
+    second: reon_ transform_5
+  - first:
+      213: -1379409612407703953
+    second: reon_ transform_6
+  - first:
+      213: 1181005508796875142
+    second: reon_ transform_7
+  - first:
+      213: 7426813268993994838
+    second: reon_ transform_8
+  - first:
+      213: -7163654225059591420
+    second: reon_ transform_9
+  - first:
+      213: -4505531137348756124
+    second: reon_ transform_10
+  - first:
+      213: 8882402534728347124
+    second: reon_ transform_11
+  - first:
+      213: 2354679377717978124
+    second: reon_ transform_12
+  - first:
+      213: -6090134747335785195
+    second: reon_ transform_13
+  - first:
+      213: 1927004989509485629
+    second: reon_ transform_14
+  - first:
+      213: -4016694791218718534
+    second: reon_ transform_15
+  - first:
+      213: 1880353080609439123
+    second: reon_ transform_16
+  - first:
+      213: 5573732908079667782
+    second: reon_ transform_17
+  - first:
+      213: -2452827577069311081
+    second: reon_ transform_18
+  - first:
+      213: -3836902776382930102
+    second: reon_ transform_19
+  - first:
+      213: 2620042519407325815
+    second: reon_ transform_20
+  - first:
+      213: -728223853304296084
+    second: reon_ transform_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reon_ transform_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e535161e7b70c3b0800000000000000
+      internalID: -5494255763925420576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e03042482d84210800000000000000
+      internalID: 1317534355987566198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ef5d416bedf1f0800000000000000
+      internalID: -1009391938318638287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8019aedd8c6b90800000000000000
+      internalID: -7247261712887281120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d7c4119ece5150800000000000000
+      internalID: 5863350887397185990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876707c76fdc35e0800000000000000
+      internalID: -1928420903607638143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66fda4144a5bdce0800000000000000
+      internalID: -1379409612407703953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6810e95c046c36010800000000000000
+      internalID: 1181005508796875142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6507b87b157511760800000000000000
+      internalID: 7426813268993994838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc89ddf66959c90800000000000000
+      internalID: -7163654225059591420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_10
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d9dd94d432971c0800000000000000
+      internalID: -4505531137348756124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_11
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd238a5b02a44b70800000000000000
+      internalID: 8882402534728347124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_12
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0461dc1b608da020800000000000000
+      internalID: 2354679377717978124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_13
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51589c6d6be7b7ba0800000000000000
+      internalID: -6090134747335785195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_14
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344e1804d81eba10800000000000000
+      internalID: 1927004989509485629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_15
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81f366e55d148c0800000000000000
+      internalID: -4016694791218718534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_16
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d790e0a2b581a10800000000000000
+      internalID: 1880353080609439123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_17
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5efa8c80e95d40800000000000000
+      internalID: 5573732908079667782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_18
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6085705ec5fdd0800000000000000
+      internalID: -2452827577069311081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_19
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a434cffe04590cac0800000000000000
+      internalID: -3836902776382930102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_20
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77271b13ac24c5420800000000000000
+      internalID: 2620042519407325815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reon_ transform_21
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc4d28344d4e5f0800000000000000
+      internalID: -728223853304296084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

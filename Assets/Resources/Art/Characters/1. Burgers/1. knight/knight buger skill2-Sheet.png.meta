@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 4f2f431f0493d5b41ab4ca5040a149e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6530122366443329981
+    second: knight buger skill2-Sheet_0
+  - first:
+      213: 6798066822100116796
+    second: knight buger skill2-Sheet_1
+  - first:
+      213: 5734760652142036714
+    second: knight buger skill2-Sheet_2
+  - first:
+      213: -595215288408245992
+    second: knight buger skill2-Sheet_3
+  - first:
+      213: -7738979773705335162
+    second: knight buger skill2-Sheet_4
+  - first:
+      213: 1187970144792279288
+    second: knight buger skill2-Sheet_5
+  - first:
+      213: -6066588029249519803
+    second: knight buger skill2-Sheet_6
+  - first:
+      213: 3080863188651414417
+    second: knight buger skill2-Sheet_7
+  - first:
+      213: -6636477796905251325
+    second: knight buger skill2-Sheet_8
+  - first:
+      213: 3604558882109700735
+    second: knight buger skill2-Sheet_9
+  - first:
+      213: -8526521876229463332
+    second: knight buger skill2-Sheet_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db910b7b1b7af9a50800000000000000
+      internalID: 6530122366443329981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3565aac1c5975e50800000000000000
+      internalID: 6798066822100116796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae640d6dd66f59f40800000000000000
+      internalID: 5734760652142036714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8197b8949de5db7f0800000000000000
+      internalID: -595215288408245992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e4c5016ee999490800000000000000
+      internalID: -7738979773705335162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8fc147d848c7010800000000000000
+      internalID: 1187970144792279288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff1fd54562fcba0800000000000000
+      internalID: -6066588029249519803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19315293fbc61ca20800000000000000
+      internalID: 3080863188651414417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e02b3fa9e76e3a0800000000000000
+      internalID: -6636477796905251325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ab02c9437f50230800000000000000
+      internalID: 3604558882109700735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight buger skill2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4628008, y: 0.0887957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2eebd6785bba980800000000000000
+      internalID: -8526521876229463332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

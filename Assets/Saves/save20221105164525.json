@@ -1,0 +1,34 @@
+{
+    "scene": {
+        "sceneName": "Stage1Boss CutScene1",
+        "position": {
+            "x": -15.819999694824219,
+            "y": -0.18000000715255738
+        }
+    },
+    "gameSystem": {
+        "gold": 0,
+        "_CharactersIndex": [],
+        "_SupporterIndex": [],
+        "_equipIndex": [
+            {
+                "hash": 788798543
+            }
+        ],
+        "_equipAmount": [
+            1
+        ],
+        "_itemIndex": [
+            {
+                "hash": 1932405679
+            }
+        ],
+        "_itemAmount": [
+            5
+        ]
+    },
+    "gameEventStatus": {
+        "kList": [],
+        "vList": []
+    }
+}

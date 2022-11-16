@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 205097c6e6f08a649a0b2b103d14cf38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 722829621036988828
+    second: roent help!-Sheet_0
+  - first:
+      213: 8481115828790772995
+    second: roent help!-Sheet_1
+  - first:
+      213: 1651959488142952984
+    second: roent help!-Sheet_2
+  - first:
+      213: 5672753773953689888
+    second: roent help!-Sheet_3
+  - first:
+      213: 6888718714073160784
+    second: roent help!-Sheet_4
+  - first:
+      213: 6068279251793574995
+    second: roent help!-Sheet_5
+  - first:
+      213: 3253099393290744985
+    second: roent help!-Sheet_6
+  - first:
+      213: -6408419795375845046
+    second: roent help!-Sheet_7
+  - first:
+      213: -2132581951232057033
+    second: roent help!-Sheet_8
+  - first:
+      213: -6566657124220535974
+    second: roent help!-Sheet_9
+  - first:
+      213: -2684516008887360140
+    second: roent help!-Sheet_10
+  - first:
+      213: 8676885654820604774
+    second: roent help!-Sheet_11
+  - first:
+      213: -545314113091793139
+    second: roent help!-Sheet_12
+  - first:
+      213: -4766593699733090572
+    second: roent help!-Sheet_13
+  - first:
+      213: 2885347980251802954
+    second: roent help!-Sheet_14
+  - first:
+      213: -7184544673539182404
+    second: roent help!-Sheet_15
+  - first:
+      213: -5666049977778691497
+    second: roent help!-Sheet_16
+  - first:
+      213: -8500963862947817789
+    second: roent help!-Sheet_17
+  - first:
+      213: -6942802713530105540
+    second: roent help!-Sheet_18
+  - first:
+      213: -225363362902161208
+    second: roent help!-Sheet_19
+  - first:
+      213: 2421140817684285514
+    second: roent help!-Sheet_20
+  - first:
+      213: 8562052293402680023
+    second: roent help!-Sheet_21
+  - first:
+      213: 8971637066432204335
+    second: roent help!-Sheet_22
+  - first:
+      213: -7855678930035016000
+    second: roent help!-Sheet_23
+  - first:
+      213: -2625253874705668020
+    second: roent help!-Sheet_24
+  - first:
+      213: -7414484000341219342
+    second: roent help!-Sheet_25
+  - first:
+      213: 7785270917359851398
+    second: roent help!-Sheet_26
+  - first:
+      213: 4570896123549874308
+    second: roent help!-Sheet_27
+  - first:
+      213: 6134891496668691010
+    second: roent help!-Sheet_28
+  - first:
+      213: 3530510676441220059
+    second: roent help!-Sheet_29
+  - first:
+      213: -4129392692975450280
+    second: roent help!-Sheet_30
+  - first:
+      213: -2649903015023496079
+    second: roent help!-Sheet_31
+  - first:
+      213: 179201006248923080
+    second: roent help!-Sheet_32
+  - first:
+      213: 8733665459152437794
+    second: roent help!-Sheet_33
+  - first:
+      213: 1953737247393691057
+    second: roent help!-Sheet_34
+  - first:
+      213: 7660400731033767761
+    second: roent help!-Sheet_35
+  - first:
+      213: -8199926699864739554
+    second: roent help!-Sheet_36
+  - first:
+      213: -8008427958914475617
+    second: roent help!-Sheet_37
+  - first:
+      213: -2680325283704843245
+    second: roent help!-Sheet_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roent help!-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c993a0be5b1080a00800000000000000
+      internalID: 722829621036988828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305440259e9f2b570800000000000000
+      internalID: 8481115828790772995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac81ae660fce610800000000000000
+      internalID: 1651959488142952984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02924ca708ba9be40800000000000000
+      internalID: 5672753773953689888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9ae52c25a99f50800000000000000
+      internalID: 6888718714073160784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c770114dbd63450800000000000000
+      internalID: 6068279251793574995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994322c99a4552d20800000000000000
+      internalID: 3253099393290744985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419a0d3628b017a0800000000000000
+      internalID: -6408419795375845046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7316766a30c8762e0800000000000000
+      internalID: -2132581951232057033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bfb0d132c8ed4a0800000000000000
+      internalID: -6566657124220535974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4756b60c9eeaebad0800000000000000
+      internalID: -2684516008887360140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc34ce78d7a6870800000000000000
+      internalID: 8676885654820604774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f082e04b7ae68f0800000000000000
+      internalID: -545314113091793139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4bcad848a9ddb0800000000000000
+      internalID: -4766593699733090572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dac4863b0da0820800000000000000
+      internalID: 2885347980251802954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b5cc4fae5b4c90800000000000000
+      internalID: -7184544673539182404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75224e2b0952e51b0800000000000000
+      internalID: -5666049977778691497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6109c1862860a80800000000000000
+      internalID: -8500963862947817789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318b6277b536af90800000000000000
+      internalID: -6942802713530105540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c844d827395fdcf0800000000000000
+      internalID: -225363362902161208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a484545febe999120800000000000000
+      internalID: 2421140817684285514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad598723582d670800000000000000
+      internalID: 8562052293402680023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4b6ec068a18c70800000000000000
+      internalID: 8971637066432204335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cefdb162a50bf290800000000000000
+      internalID: -7855678930035016000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4863f89289319bd0800000000000000
+      internalID: -2625253874705668020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f728d6d5167a1990800000000000000
+      internalID: -7414484000341219342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687d965b6a6da0c60800000000000000
+      internalID: 7785270917359851398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48876658ec51f6f30800000000000000
+      internalID: 4570896123549874308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a708aef43832550800000000000000
+      internalID: 6134891496668691010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c00931c4eef030800000000000000
+      internalID: 3530510676441220059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ca15693371b6c0800000000000000
+      internalID: -4129392692975450280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b9446f37a93bd0800000000000000
+      internalID: -2649903015023496079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf0cd0ad56ac7200800000000000000
+      internalID: 179201006248923080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22241ef4676343970800000000000000
+      internalID: 8733665459152437794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b957dca11d1b10800000000000000
+      internalID: 1953737247393691057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f096ad0e53f4a60800000000000000
+      internalID: 7660400731033767761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11325e8c12043e80800000000000000
+      internalID: -8199926699864739554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99989ba3395cd090800000000000000
+      internalID: -8008427958914475617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roent help!-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0
+        width: 100
+        height: 113
+      alignment: 9
+      pivot: {x: 0.78, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314564efa529dcad0800000000000000
+      internalID: -2680325283704843245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

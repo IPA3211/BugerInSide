@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3ceb7022dd1c4ea29fb7d5c186fb4, type: 3}
+  m_Name: bat
+  m_EditorClassIdentifier: 
+  sortingNum: 0
+  hash: 696029479
+  titleEng: bat
+  title: "\uBC15\uC950"
+  describeImage: {fileID: -2724506766906759292, guid: 67f1377b06311ba4191084fa216f8a58,
+    type: 3}
+  describe: "\uBE14\uB77C\uBE14\uB77C"
+  maxHp: 500
+  Hp: 500
+  maxMp: 1
+  Mp: 1
+  Speed: 150
+  ATK: 200
+  DEF: 0
+  cost: 0
+  StatusImage: {fileID: -2724506766906759292, guid: 67f1377b06311ba4191084fa216f8a58,
+    type: 3}
+  flip: 1
+  AnimatorController: {fileID: 9100000, guid: 899a0fd820413a349a30420db99950b2, type: 2}
+  mpName: "\uB9C8\uB098"
+  mpBarImage: {fileID: -8619046075498376970, guid: c7869c0bf9426bc4ab4f040bab688c85,
+    type: 3}
+  isSupporter: 0
+  useSkillNum: 0
+  charType: 0
+  Level: 1
+  Xp2LevelUp: 0000000064000000c80000002c010000
+  Xp: 0
+  head: {fileID: 0}
+  weapon: {fileID: 0}
+  body: {fileID: 0}
+  shoes: {fileID: 0}
+  deafultAttack: {fileID: 11400000, guid: 3381e68d7d6d26d429461c21cc11a2f3, type: 2}
+  skills: []
+  passives: []
+  linkedChar: {fileID: 0}
+  skillAI: 
+  usePer: 0
+  usePerSkill: {fileID: 0}
+  skillNum: 0
